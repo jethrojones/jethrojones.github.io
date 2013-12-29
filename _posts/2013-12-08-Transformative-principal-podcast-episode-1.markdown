@@ -1,8 +1,8 @@
-======
+---
 layout: post
 slug: tp-001
 Categories: podcast, Title I
-======
+---
 
 
 [This interview](http://transformativeprincipal.libsyn.com/interview-with-sondra-jolovich-motes) with Sandra Jolovich-Motes (JM) is really fantastic.  This is part one of [two](http://transformativeprincipal.libsyn.com/transformative-principal-002-interview-with-sondra-jolovich-motes-part-2). 
