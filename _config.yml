@@ -2,3 +2,6 @@ name: jethrojones.com
 url: http://jethrojones.com
 markdown: redcarpet
 pygments: true
+
+#RSS
+Description: RSS feed for jethrojones.com
