@@ -3,3 +3,4 @@ url: http://jethrojones.com
 markdown: redcarpet
 pygments: true
 
+rss_name: jrss.xml
