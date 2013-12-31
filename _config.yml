@@ -1,10 +1,10 @@
-name: jethrojones.com
+name: Jethro's Web Site
 url: http://jethrojones.com
 markdown: redcarpet
 pygments: true
 
 # RSS FEED Information: Uses the following attributes in _config.yml:
-name - Jethro's Web Site
+#name: - Jethro's Web Site
 url - jethrojones.com
 #   description    - (optional) a description for the feed (if not specified will be generated from name)
 #   author         - (optional) the author of the site (if not specified will be left blank)
