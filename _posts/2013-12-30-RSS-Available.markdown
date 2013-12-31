@@ -20,3 +20,5 @@ If this worked, there is sweet picture on this post. Again, I can do this!
 Here is the RSS Feed: [http://jethrojones.com/feed.xml](http://jethrojones.com/feed.xml)
 
 One day, I will figure out how to have a link to the RSS feed. Slow and steady. 
+
+Have a Good Life.
