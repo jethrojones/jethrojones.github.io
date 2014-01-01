@@ -4,7 +4,7 @@ markdown: redcarpet
 pygments: true
 
 #RSS
-Description: Awesome RSS feed for jethrojones.com
+#Description: Awesome RSS feed for jethrojones.com
 
 # Categories
 category_dir: categories
