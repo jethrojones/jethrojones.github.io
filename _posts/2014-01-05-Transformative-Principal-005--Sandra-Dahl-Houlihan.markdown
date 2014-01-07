@@ -11,9 +11,13 @@ categories: podcast title1
 Sandra is a great principal at Sandy Elementary. She has received numerous awards in her 7 years as an administrator: 
 
 -Community Leader of the Year
+
 -Rookie of the Year
+
 -Distinguished Principal of the Year
+
 -CITES Recognition
+
 -National Board Certified Teacher
 
 And, she is pretty much always being praised and recognized by her peers. I am fortunate to be able to work with her. 

@@ -8,7 +8,16 @@
     <title>jethrojones.com</title>
     <link>http://jethrojones.com</link>
     <description>RSS feed for jethrojones.com</description>
-    <pubDate>Mon, 06 Jan 2014 21:14:50 -0000</pubDate>
+    <pubDate>Tue, 07 Jan 2014 06:59:47 -0000</pubDate>
+    <item>
+      <title>Accountability Movement</title>
+      <link>http://jethrojones.com/education/ponderings/2014/01/07/accountability-movement.html</link>
+      <description>&lt;p&gt;&lt;a href=&quot;http://mrjonesed.blogspot.com/2014/01/some-thoughts-on-accountability-movement.html&quot;&gt;I recently wrote this blog post&lt;/a&gt; about the accountability movement in education. I think that we need to understand why it exists and own our reasons for what we think about it. &lt;/p&gt;
+</description>
+      <pubDate>Tue, 07 Jan 2014 06:59:47 -0000</pubDate>
+      <guid>http://jethrojones.com/education/ponderings/2014/01/07/accountability-movement.html</guid>
+      <dc:date>2014-01-07T06:59:47Z</dc:date>
+    </item>
     <item>
       <title>New Setup</title>
       <link>http://jethrojones.com/computers/geekery/2014/01/06/sweet-setup.html</link>
@@ -81,6 +90,6 @@
       <guid>http://jethrojones.com/podcast,/projects/2013/12/01/podcast-introduction.html</guid>
       <dc:date>2013-12-01T21:52:26Z</dc:date>
     </item>
-    <dc:date>2014-01-06T21:14:50Z</dc:date>
+    <dc:date>2014-01-07T06:59:47Z</dc:date>
   </channel>
 </rss>
