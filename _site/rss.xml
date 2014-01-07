@@ -8,7 +8,16 @@
     <title>jethrojones.com</title>
     <link>http://jethrojones.com</link>
     <description>RSS feed for jethrojones.com</description>
-    <pubDate>Mon, 30 Dec 2013 22:13:43 -0000</pubDate>
+    <pubDate>Mon, 06 Jan 2014 21:14:50 -0000</pubDate>
+    <item>
+      <title>New Setup</title>
+      <link>http://jethrojones.com/computers/geekery/2014/01/06/sweet-setup.html</link>
+      <description>&lt;p&gt;I have always wanted a sweet dual-monitor setup, and I finally found a good deal on two monitors. And, since the wife and I just finished paying off all our student loan debt, I was stoked to be able to have some cash to pay for it. &lt;/p&gt;
+</description>
+      <pubDate>Mon, 06 Jan 2014 21:14:50 -0000</pubDate>
+      <guid>http://jethrojones.com/computers/geekery/2014/01/06/sweet-setup.html</guid>
+      <dc:date>2014-01-06T21:14:50Z</dc:date>
+    </item>
     <item>
       <title>My Wife Loves Christmas</title>
       <link>http://jethrojones.com/family/2013/12/30/oh-christmas-tree.html</link>
@@ -63,6 +72,6 @@
       <guid>http://jethrojones.com/podcast,/projects/2013/12/01/podcast-introduction.html</guid>
       <dc:date>2013-12-01T21:52:26Z</dc:date>
     </item>
-    <dc:date>2013-12-30T22:13:43Z</dc:date>
+    <dc:date>2014-01-06T21:14:50Z</dc:date>
   </channel>
 </rss>
