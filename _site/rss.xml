@@ -8,7 +8,16 @@
     <title>jethrojones.com</title>
     <link>http://jethrojones.com</link>
     <description>RSS feed for jethrojones.com</description>
-    <pubDate>Tue, 07 Jan 2014 06:59:47 -0000</pubDate>
+    <pubDate>Wed, 08 Jan 2014 17:44:44 -0000</pubDate>
+    <item>
+      <title>Fixing my Errors</title>
+      <link>http://jethrojones.com/tech/blogging/2014/01/08/reverting.html</link>
+      <description>&lt;p&gt;I am hosting this blog on &lt;a href=&quot;http://pages.github.com&quot;&gt;Github Pages&lt;/a&gt; and I am learning a lot about ruby, web development, git, commits, pulls, and more. There is still a lot I don&amp;#39;t know, but it is fun to learn about it. &lt;/p&gt;
+</description>
+      <pubDate>Wed, 08 Jan 2014 17:44:44 -0000</pubDate>
+      <guid>http://jethrojones.com/tech/blogging/2014/01/08/reverting.html</guid>
+      <dc:date>2014-01-08T17:44:44Z</dc:date>
+    </item>
     <item>
       <title>Accountability Movement</title>
       <link>http://jethrojones.com/education/ponderings/2014/01/07/accountability-movement.html</link>
@@ -90,6 +99,6 @@
       <guid>http://jethrojones.com/podcast,/projects/2013/12/01/podcast-introduction.html</guid>
       <dc:date>2013-12-01T21:52:26Z</dc:date>
     </item>
-    <dc:date>2014-01-07T06:59:47Z</dc:date>
+    <dc:date>2014-01-08T17:44:44Z</dc:date>
   </channel>
 </rss>
