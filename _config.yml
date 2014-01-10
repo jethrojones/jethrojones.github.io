@@ -2,6 +2,7 @@ name: Jethro Jones DOT com!
 url: http://jethrojones.com
 markdown: redcarpet
 pygments: true
+permalink: /:year/:month/:day/:title/
 
 #RSS
 description: Awesome RSS feed for jethrojones.com
