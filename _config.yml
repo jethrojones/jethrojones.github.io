@@ -1,10 +1,11 @@
-name: jethrojones.com
+name: Jethro Jones DOT COM!
 url: http://jethrojones.com
 markdown: redcarpet
 pygments: true
 
 #RSS
-#Description: Awesome RSS feed for jethrojones.com
+description: Awesome RSS feed for jethrojones.com
+
 
 # Categories
 category_dir: categories
