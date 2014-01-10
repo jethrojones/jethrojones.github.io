@@ -3,6 +3,8 @@ url: http://jethrojones.com
 markdown: redcarpet
 pygments: true
 permalink: /:year/:month/:day/:title/
+paginate: 5
+disqus_shortname: jethrojones
 
 #RSS
 description: Awesome RSS feed for jethrojones.com
