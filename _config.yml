@@ -7,7 +7,7 @@ pygments: true
 description: Awesome RSS feed for jethrojones.com
 author: Jethro Jones
 copyright: (C) Jethro Jones 2014
-rss_name: feed.xml
+rss_name: feeder.xml
 
 
 # Categories
