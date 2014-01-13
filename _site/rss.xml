@@ -8,16 +8,7 @@
     <title>Jethro Jones DOT COM!</title>
     <link>http://jethrojones.com</link>
     <description>Awesome RSS feed for jethrojones.com</description>
-    <pubDate>Sun, 19 Jan 2014 17:19:39 -0000</pubDate>
-    <item>
-      <title>Transformative Principal 007 - Jeff Paul</title>
-      <link>http://jethrojones.com/podcast/elementary/tp/2014/01/19/Transformative-Principal-007--Jeff-Paul-Part-2.html</link>
-      <description>&lt;iframe style=&quot;border: none&quot; src=&quot;//html5-player.libsyn.com/embed/episode/id/2627388/height/360/width/640/theme/standard/direction/no/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/&quot; height=&quot;360&quot; width=&quot;640&quot; scrolling=&quot;no&quot;  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen&gt;&lt;/iframe&gt;
-</description>
-      <pubDate>Sun, 19 Jan 2014 17:19:39 -0000</pubDate>
-      <guid>http://jethrojones.com/podcast/elementary/tp/2014/01/19/Transformative-Principal-007--Jeff-Paul-Part-2.html</guid>
-      <dc:date>2014-01-19T17:19:39Z</dc:date>
-    </item>
+    <pubDate>Sun, 12 Jan 2014 17:19:39 -0000</pubDate>
     <item>
       <title>Transformative Principal 006 - Jeff Paul</title>
       <link>http://jethrojones.com/podcast/elementary/tp/2014/01/12/Transformative-Principal-006--Jeff-Paul.html</link>
@@ -126,6 +117,6 @@
       <guid>http://jethrojones.com/podcast,/projects/2013/12/01/podcast-introduction.html</guid>
       <dc:date>2013-12-01T21:52:26Z</dc:date>
     </item>
-    <dc:date>2014-01-19T17:19:39Z</dc:date>
+    <dc:date>2014-01-12T17:19:39Z</dc:date>
   </channel>
 </rss>
