@@ -7,4 +7,4 @@ categories: podcast elementary tp
 ---
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/2627388/height/360/width/640/theme/standard/direction/no/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/" height="360" width="640" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
-I had the opportunity to interview Jeff Paul [okprincipal](http://twitter.com/okprincipal) for this episode. This is part . 
+I had the opportunity to interview Jeff Paul [okprincipal](http://twitter.com/okprincipal) for this episode. This is part 1. 
