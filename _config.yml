@@ -18,3 +18,8 @@ category_dir: categories
 
 # Google Analytics:
 google_analytics_code: UA-1675106-4
+
+#analytics :
+#  provider : google 
+#  google : 
+#      tracking_id :
