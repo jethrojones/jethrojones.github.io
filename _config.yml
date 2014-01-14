@@ -15,3 +15,6 @@ rss_name: feeder.xml
 
 # Categories
 category_dir: categories
+
+# Google Analytics:
+google_analytics_code: UA-1675106-4
