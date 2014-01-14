@@ -17,9 +17,9 @@ rss_name: feeder.xml
 category_dir: categories
 
 # Google Analytics:
-#google_analytics_code: UA-1675106-4
+google_analytics: UA-1675106-4
 
-analytics :
-  provider : google 
-  google : 
-      tracking_id : UA-1675106-4
+#analytics :
+ # provider : google 
+  #google : 
+   #   tracking_id : UA-1675106-4
