@@ -3,6 +3,8 @@ layout: post
 title:  Getting Rid of the Annoying Silent Spots in Skype Call Recordings
 date:   2014-01-12 08:06:49
 categories: Skype technology audacity audio editing
+image: http://jethrojones.com/assets/Screenshot%202014-01-12%2021.06.54.png
+description: Get rid of long silence in your recordings
 ---
 
 Here's how to get rid of pesky silent spots in Skype (and other) recordings. 
