@@ -9,7 +9,16 @@
     <link>http://jethrojones.com</link>
     <description>Awesome RSS feed for jethrojones.com</description>
     <copyright>(C) Jethro Jones 2014</copyright>
-    <pubDate>Sun, 12 Jan 2014 17:19:39 -0000</pubDate>
+    <pubDate>Wed, 15 Jan 2014 00:00:00 -0700</pubDate>
+    <item>
+      <title>IPST Data Forms</title>
+      <link>http://jethrojones.com/2014/01/15/ipst-data-entry/</link>
+      <description>&lt;p&gt;Here is the file that teachers need to download to enter data for weekly IPST (Instructional Problem Solving Team Meetings)&lt;/p&gt;
+</description>
+      <pubDate>Wed, 15 Jan 2014 00:00:00 -0700</pubDate>
+      <guid>http://jethrojones.com/2014/01/15/ipst-data-entry/</guid>
+      <dc:date>2014-01-15T00:00:00-07:00</dc:date>
+    </item>
     <item>
       <title>Transformative Principal 006 - Jeff Paul</title>
       <link>http://jethrojones.com/2014/01/12/Transformative-Principal-006--Jeff-Paul/</link>
@@ -118,6 +127,6 @@
       <guid>http://jethrojones.com/2013/12/01/podcast-introduction/</guid>
       <dc:date>2013-12-01T21:52:26Z</dc:date>
     </item>
-    <dc:date>2014-01-12T17:19:39Z</dc:date>
+    <dc:date>2014-01-15T00:00:00-07:00</dc:date>
   </channel>
 </rss>
