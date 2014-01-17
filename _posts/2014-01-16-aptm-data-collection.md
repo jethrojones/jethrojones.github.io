@@ -21,6 +21,8 @@ Here is the data that we show parents:
 
 Those scores are pretty simple to generate with our data systems. No big deal. What is more difficult is showing precise data which compares students scores to their peers. We want parents to know how their students are performing, so they can make a better determination about how much their students need. 
 
+![Seen here]({{ site.url }}/assets/aptm-data.png)
+
 I created a [tutorial]({{ site.url }}/assets/Create Grade-Wide Charts of RCBM compared to Benchmark.pdf) to explain how to do this using AIMSweb. If you don't use AIMSweb, you can still complete it using the [template spreadsheet for the data]({{ site.url }}/assets/GradeX.CBM.xxxxYYYY.rr.xlsx). 
 
 To use the spreadsheet, you just need to enter the student's names, assign them a number, enter their scores, then their benchmarks, and you are good to go. 
