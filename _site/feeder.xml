@@ -9,7 +9,16 @@
     <link>http://jethrojones.com</link>
     <description>Awesome RSS feed for jethrojones.com</description>
     <copyright>(C) Jethro Jones 2014</copyright>
-    <pubDate>Wed, 15 Jan 2014 00:00:00 -0700</pubDate>
+    <pubDate>Thu, 16 Jan 2014 20:42:39 -0000</pubDate>
+    <item>
+      <title>Grade-wide Data in a New Look</title>
+      <link>http://jethrojones.com/2014/01/16/aptm-data-collection/</link>
+      <description>&lt;p&gt;At our school, we do &amp;quot;Curriculum Conferences&amp;quot; or &amp;quot;Academic Parent-Team Meetings&amp;quot;. These are an extra parent-teacher conference-like setup that was pioneered by the &lt;a href=&quot;http://www.hfrp.org/publications-resources/browse-our-publications/academic-parent-teacher-teams-reorganizing-parent-teacher-conferences-around-data&quot;&gt;Harvard Family Research Project&lt;/a&gt;. The idea is that we focus on student data during our discussions with the families. &lt;/p&gt;
+</description>
+      <pubDate>Thu, 16 Jan 2014 20:42:39 -0000</pubDate>
+      <guid>http://jethrojones.com/2014/01/16/aptm-data-collection/</guid>
+      <dc:date>2014-01-16T20:42:39Z</dc:date>
+    </item>
     <item>
       <title>IPST Data Forms</title>
       <link>http://jethrojones.com/2014/01/15/ipst-data-entry/</link>
@@ -127,6 +136,6 @@
       <guid>http://jethrojones.com/2013/12/01/podcast-introduction/</guid>
       <dc:date>2013-12-01T21:52:26Z</dc:date>
     </item>
-    <dc:date>2014-01-15T00:00:00-07:00</dc:date>
+    <dc:date>2014-01-16T20:42:39Z</dc:date>
   </channel>
 </rss>
