@@ -31,6 +31,7 @@ Sometimes our storylines come from an email that sounded too terse or frustrated
 5. Get clarification from the other party.
 6. Feel better about life and your relationships.
 
+This is a great strategy for anyone who deals with any other human being in their life. 
 
 #How Storylines Have Affected My Life
 
