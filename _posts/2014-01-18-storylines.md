@@ -31,6 +31,7 @@ Sometimes our storylines come from an email that sounded too terse or frustrated
 5. Get clarification from the other party.
 6. Feel better about life and your relationships.
 
+
 #How Storylines Have Affected My Life
 
 Within just a couple weeks of learning this important strategy, I had many instances where frustration and fear were avoided. Instances where I had a storyline, and instances where my teachers had storylines. It is amazing how effective this strategy is at defusing tense situations, helping people overcome their fears, and bringing trust to relationships. It works with spouses, bosses, employees, parents, and students. 
