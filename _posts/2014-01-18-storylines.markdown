@@ -1,0 +1,29 @@
+---
+layout: post
+title:  Storylines
+date:   2014-01-18 09:14:23
+categories: Leadership relationships
+---
+#Have You Experienced a Storyline?
+
+Have you ever gotten that "look" from your boss? You know the look, you know you are in trouble. You know you messed up and your boss is angry and ready to fire you! 
+
+Have you ever seen someone and thought, that person has no desire to see or interact with me! What did I do wrong? 
+
+When you have these interactions, you are creating a storyline. And what I am going to tell you about dealing with storylines will make every relationship in your life better. 
+
+#What Exactly is a Storyline?
+
+A storyline is any story you tell yourself in your kind about any interaction you have with another person where you are not 100% positive about what the other person intended. A storyline is making assumptions about what someone said or meant. 
+
+A storyline is not feeling hurt when someone really did try to hurt you. A storyline is not avoiding listening to a real concern. 
+
+A storyline is something we make up, with very little justification (and a part of the storyline is making up more justification for our hurt feelings). 
+
+Sometimes our storylines come from an email that sounded too terse or frustrated or impolite. 
+
+#How to Deal With Storylines
+
+1. Share this post with the important people in your life. 
+2. Establish the word "storyline" as a safe word. "When we say storyline, there is no judgement allowed."
+3. When you have a moment where there is a storyline, 
