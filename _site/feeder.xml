@@ -9,7 +9,16 @@
     <link>http://jethrojones.com</link>
     <description>Awesome RSS feed for jethrojones.com</description>
     <copyright>(C) Jethro Jones 2014</copyright>
-    <pubDate>Tue, 21 Jan 2014 17:19:39 -0000</pubDate>
+    <pubDate>Sat, 25 Jan 2014 22:48:44 -0000</pubDate>
+    <item>
+      <title>Noisy Kids</title>
+      <link>http://jethrojones.com/2014/01/25/noisy-kids/</link>
+      <description>&lt;p&gt;Tonight, after dinner while Staci and I were cleaning up dinner, the kids were running around the entire house like crazy people. The squealing and laughter was non-stop, and I know there are people that would tell the kids to hush. &lt;/p&gt;
+</description>
+      <pubDate>Sat, 25 Jan 2014 22:48:44 -0000</pubDate>
+      <guid>http://jethrojones.com/2014/01/25/noisy-kids/</guid>
+      <dc:date>2014-01-25T22:48:44Z</dc:date>
+    </item>
     <item>
       <title>Transformative Principal 007 - Jeff Paul</title>
       <link>http://jethrojones.com/2014/01/21/Transformative-Principal-007--Jeff-Paul-Part-2/</link>
@@ -154,6 +163,6 @@
       <guid>http://jethrojones.com/2013/12/01/podcast-introduction/</guid>
       <dc:date>2013-12-01T21:52:26Z</dc:date>
     </item>
-    <dc:date>2014-01-21T17:19:39Z</dc:date>
+    <dc:date>2014-01-25T22:48:44Z</dc:date>
   </channel>
 </rss>
