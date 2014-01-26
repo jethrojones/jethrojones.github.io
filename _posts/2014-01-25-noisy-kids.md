@@ -23,6 +23,6 @@ So tonight, as Staci and I were cleaning up from dinner, and our kids were screa
 
 All too often, we are more focused on teaching kids to be quiet, to listen, to settle down, we forget that they are kids and we can let them be kids. Instead of being annoyed that they are happily yelling and carrying on, we can experience some joy at the simple things they do. 
 
-They were playing superheroes (them) and monsters (Staci and me), and as Staci and I took turns scaring them as they came around the corner, I realized that this is the best part of my life: spending quality, if loud) time with my wonderful little family, and hearing my ears ring from the high-pitched squeals of energetic and enthusiastic children. 
+They were playing superheroes (them) and monsters (Staci and me), and as Staci and I took turns scaring them as they came around the corner, I realized that this is the best part of my life: spending quality, if loud, time with my wonderful little family, and hearing my ears ring from the high-pitched squeals of energetic and enthusiastic children. 
 
 Have a Good Life.
