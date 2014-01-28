@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Transformative Principal 008 - Doug Hallenbeck Part 1
+comments: true
 date:   2014-01-26 16:05:28
 categories: podcast education middle
 ---

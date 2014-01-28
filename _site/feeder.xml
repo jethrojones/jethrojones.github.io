@@ -9,7 +9,16 @@
     <link>http://jethrojones.com</link>
     <description>Awesome RSS feed for jethrojones.com</description>
     <copyright>(C) Jethro Jones 2014</copyright>
-    <pubDate>Sat, 25 Jan 2014 22:48:44 -0000</pubDate>
+    <pubDate>Sun, 26 Jan 2014 16:05:28 -0000</pubDate>
+    <item>
+      <title>Transformative Principal 008 - Doug Hallenbeck Part 1</title>
+      <link>http://jethrojones.com/2014/01/26/TP-008-dh-01/</link>
+      <description>&lt;iframe style=&quot;border: none&quot; src=&quot;//html5-player.libsyn.com/embed/episode/id/2647542/height/360/width/640/theme/standard/direction/no/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/&quot; height=&quot;360&quot; width=&quot;640&quot; scrolling=&quot;no&quot;  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen&gt;&lt;/iframe&gt;
+</description>
+      <pubDate>Sun, 26 Jan 2014 16:05:28 -0000</pubDate>
+      <guid>http://jethrojones.com/2014/01/26/TP-008-dh-01/</guid>
+      <dc:date>2014-01-26T16:05:28Z</dc:date>
+    </item>
     <item>
       <title>Noisy Kids</title>
       <link>http://jethrojones.com/2014/01/25/noisy-kids/</link>
@@ -163,6 +172,6 @@
       <guid>http://jethrojones.com/2013/12/01/podcast-introduction/</guid>
       <dc:date>2013-12-01T21:52:26Z</dc:date>
     </item>
-    <dc:date>2014-01-25T22:48:44Z</dc:date>
+    <dc:date>2014-01-26T16:05:28Z</dc:date>
   </channel>
 </rss>
