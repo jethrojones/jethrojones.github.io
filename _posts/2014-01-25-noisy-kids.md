@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Noisy Kids
+comments: true
 date:   2014-01-25 22:48:44
 categories: kids family
 ---
