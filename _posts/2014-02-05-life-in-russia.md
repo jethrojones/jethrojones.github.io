@@ -38,7 +38,7 @@ I am amazed these pipes never burst, lots of painted rust:
 
 ![rusty pipes]({{ site.url }}/assets/Russia 0033.jpg)
 
-Water after they turned the hot water back on after summer (yes, we did not have hot water in the summer):
+Water after they turned the hot water back on after summer (yes, we did not have hot water in the summer). We washed our white shirts in this water:
 
 ![dirty water]({{ site.url }}/assets/Russia 0039.jpg)
 
