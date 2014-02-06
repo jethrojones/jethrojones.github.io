@@ -28,7 +28,7 @@ The graffiti was sometimes, less than correct:
 
 Um, this playground is not safe: 
 
-![Playgrounds at ground level]({{ site.url }}/assets/Russia 0021.jpg)
+![Playgrounds at ground level]({{ site.url }}/assets/Russia 0022.jpg)
 
 The biggest head of [Lenin is in a land called Ulan Ude](http://jansenprice.com/music?song=81-The-Lenin-Head): 
 
@@ -48,7 +48,7 @@ One time, a cat came into our apartment. Stray dogs in packs are scary, but stra
 
 It took a long time to get rid of this cat. 
 
-And the milk was sold in cartons (or bags), not refrigerated, and look at that, 4% milkfat. It was like drinking half and half, but without sugar:
+And the milk was sold in cartons (or bags), not refrigerated, and look at that, 4% milk fat. It was like drinking half and half, but without sugar:
 
 ![milky]({{ site.url }}/assets/Russia 0049.jpg)
 
