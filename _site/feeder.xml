@@ -9,7 +9,16 @@
     <link>http://jethrojones.com</link>
     <description>Awesome RSS feed for jethrojones.com</description>
     <copyright>(C) Jethro Jones 2014</copyright>
-    <pubDate>Sun, 26 Jan 2014 16:05:28 -0000</pubDate>
+    <pubDate>Wed, 05 Feb 2014 21:14:28 -0000</pubDate>
+    <item>
+      <title>My Experiences in Russia</title>
+      <link>http://jethrojones.com/2014/02/05/life-in-russia/</link>
+      <description>&lt;p&gt;Over a decade ago, I served a mission for my &lt;a href=&quot;http://mormon.org&quot;&gt;Church&lt;/a&gt;. In Russia. In Siberia. It was amazing. I loved the time I spent there. It was wonderful, and I love the people that I met. &lt;/p&gt;
+</description>
+      <pubDate>Wed, 05 Feb 2014 21:14:28 -0000</pubDate>
+      <guid>http://jethrojones.com/2014/02/05/life-in-russia/</guid>
+      <dc:date>2014-02-05T21:14:28Z</dc:date>
+    </item>
     <item>
       <title>Transformative Principal 008 - Doug Hallenbeck Part 1</title>
       <link>http://jethrojones.com/2014/01/26/TP-008-dh-01/</link>
@@ -172,6 +181,6 @@
       <guid>http://jethrojones.com/2013/12/01/podcast-introduction/</guid>
       <dc:date>2013-12-01T21:52:26Z</dc:date>
     </item>
-    <dc:date>2014-01-26T16:05:28Z</dc:date>
+    <dc:date>2014-02-05T21:14:28Z</dc:date>
   </channel>
 </rss>
