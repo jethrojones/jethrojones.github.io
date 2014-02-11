@@ -18,24 +18,6 @@ Our conversation covers these topics:
 1. How she allows her faculty to talk to her about when she is pushing too hard. 
 1. How she implemented [1:1 Chromebooks in 4th grade](http://weprincipal.blogspot.com/2014/01/uncensored-11-4th-grade-chromebook.html) when a bunch of other stuff was coming down the pike.  
 1. How she prepares for the beginning of a new school year. (And [here is the ASCD article on her flipped faculty meeting](http://www.ascd.org/publications/newsletters/education-update/jan14/vol56/num01/Flipped-Faculty-Meeting-Videos.aspx).) Keep your flipped faculty meetings short, to the point, and give teachers plenty of time to look at the information. 
-1. Most important tip for starting flipped facutly meetings. 
+1. Most important tip for starting flipped faculty meetings. 
 1. How important it is to have video or audio to help people not misunderstand what they are doing wrong. 
-
----
-
-1. Positive intentions - how she approaches teachers who need to be corrected. 
-1. Turnover and how she gets great people to come to her school. 
-1. Her quick-start personality and how she shares results of her evaluations with the teachers. 
-1. [Adaptive schools trainings](http://www.thinkingcollaborative.com/seminars/adaptive-schools-seminars/?doing_wp_cron=1391313722.0516979694366455078125) were conducted at her school, and here is more information about it. 
-1. How she uses Twitter for her own learning and how she teaches others, she is a Twitter grandmother according to [Spike Cook](https://twitter.com/DrSpikeCook).
-1. How she uses [Pinterest](http://www.pinterest.com/mmiller7571/) to help her teachers.  
-1. Using a Voxer group of principals to talk a little more privately about topics that are
-1. Jethro's [Twitter failure when he was a teacher](http://mrjonesed.blogspot.com/2008/04/twitter-backfires.html).
-1. What is one thing a principal can do to be a transformative principal like you are? 
-1. What is something in her office that is meaningful to you? 
-
-
-
-She has a lot of great information on her [blog](http://weprincipal.blogspot.com). If you read blogs by principals and you aren't reading hers, you are missing out. 
-
 
