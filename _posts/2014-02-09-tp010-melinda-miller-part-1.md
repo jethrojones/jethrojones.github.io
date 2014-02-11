@@ -6,6 +6,8 @@ date:   2014-02-09 20:05:34
 categories: podcast elementary
 ---
 
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/destination/id/171591/height/360/width/640/theme/standard/direction/no/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/" height="360" width="640" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
 In this episode I have the great opportunity to interview [Melinda Miller (@mmiller7571)](https://twitter.com/mmiller7571). I have followed her for a long time on Twitter, and I loved the podcast she did with [@ScottElias](https://twitter.com/scottelias) called Practical Principals. That great podcast partly inspired me to start this podcast. I still haven't found a podcast that talks about the real issues that are facing to 
 
 Our conversation covers these topics: 
