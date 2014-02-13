@@ -9,7 +9,16 @@
     <link>http://jethrojones.com</link>
     <description>Awesome RSS feed for jethrojones.com</description>
     <copyright>(C) Jethro Jones 2014</copyright>
-    <pubDate>Sun, 09 Feb 2014 20:05:34 -0000</pubDate>
+    <pubDate>Wed, 12 Feb 2014 23:19:11 -0000</pubDate>
+    <item>
+      <title>Middle School Schedule</title>
+      <link>http://jethrojones.com/2014/02/12/middle-school-schedule/</link>
+      <description>&lt;p&gt;When I was in the EBL Department, the other specialists and I spent months working on a middle school schedule to prepare for the reconfiguration when 6th grade would move into the middle school and 9th grade would move into the high school. Leslie Allen and I worked hard with School Performance Director Mike Sirois to create a schedule that would allow built-in time for students to have remediation and enrichment in ELA and Math courses. &lt;/p&gt;
+</description>
+      <pubDate>Wed, 12 Feb 2014 23:19:11 -0000</pubDate>
+      <guid>http://jethrojones.com/2014/02/12/middle-school-schedule/</guid>
+      <dc:date>2014-02-12T23:19:11Z</dc:date>
+    </item>
     <item>
       <title>How to share all the great things you do with Melinda Miller</title>
       <link>http://jethrojones.com/2014/02/09/tp010-melinda-miller-part-1/</link>
@@ -199,6 +208,6 @@
       <guid>http://jethrojones.com/2013/12/01/podcast-introduction/</guid>
       <dc:date>2013-12-01T21:52:26Z</dc:date>
     </item>
-    <dc:date>2014-02-09T20:05:34Z</dc:date>
+    <dc:date>2014-02-12T23:19:11Z</dc:date>
   </channel>
 </rss>
