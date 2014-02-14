@@ -32,15 +32,18 @@ We take pictures of our kids making good choices and display them on a TV that i
 We offer various rewards: cougar coins, cougar cash, tokens, cougar tracks, and other rewards and incentives in each individual classroom. These are used to remind students of the right choice to make. While rewards are nice, we really want to teach children how to make good choices that help them be the best they can be. 
 
 #Timeline
+
 What did we do when? 
 
 ##2011-2012 
+
 * Start work on Matrix
 * Cougar cash and cougar coins
 * Started PBIS philosophy
 * Peaceful Playgrounds
 
 ##2012-2013
+
 * Taught expectations to students in each location at beginning of school year and after winter break
 * Playworks
 * PBIS Coach
@@ -50,6 +53,7 @@ What did we do when?
 * PBIS Screen
 
 ##2013-2014
+
 * Taught expectations to students in each location at beginning of school year and after winter and spring breaks
 * Playworks and character education class (game) time
 * Token Tower
