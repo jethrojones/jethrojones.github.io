@@ -13,6 +13,10 @@ When we looked at the data, and saw that over 400 students received Office Disci
 
 If you assume that each incident requires approximately 30 minutes of my time to deal with, and that kids are probably out of class for 30 minutes if they are involved in a situation, you will quickly see that more than 200 hours of my time and more than 200 hours of instructional time for those students are lost. That is a lot. You can teach kids a lot in 200 hours. 
 
+This graphic below shows the reduction in ODRs as of January in each year. 
+
+![ODRs over three years]({{ site.url }}/assets/odrs over three years.png)
+
 #Be Safe, Be Kind, Be Responsible. 
 We simplified our school rules to just three that all students (Kindergarten through 6th grade) could understand. These simple rules are the basis for every conversation we have. When students make mistakes, we ask them if their behavior was safe, kind, or responsible. We then ask them what behavior would be safe, kind, or responsible. 
 
