@@ -9,7 +9,16 @@
     <link>http://jethrojones.com</link>
     <description>Awesome RSS feed for jethrojones.com</description>
     <copyright>(C) Jethro Jones 2014</copyright>
-    <pubDate>Wed, 12 Feb 2014 23:19:11 -0000</pubDate>
+    <pubDate>Thu, 13 Feb 2014 22:01:42 -0000</pubDate>
+    <item>
+      <title>PBIS Initiatives at Copperview</title>
+      <link>http://jethrojones.com/2014/02/13/pbis-at-copperview/</link>
+      <description>&lt;h1&gt;Solving the Behavior Puzzle&lt;/h1&gt;
+</description>
+      <pubDate>Thu, 13 Feb 2014 22:01:42 -0000</pubDate>
+      <guid>http://jethrojones.com/2014/02/13/pbis-at-copperview/</guid>
+      <dc:date>2014-02-13T22:01:42Z</dc:date>
+    </item>
     <item>
       <title>Middle School Schedule</title>
       <link>http://jethrojones.com/2014/02/12/middle-school-schedule/</link>
@@ -208,6 +217,6 @@
       <guid>http://jethrojones.com/2013/12/01/podcast-introduction/</guid>
       <dc:date>2013-12-01T21:52:26Z</dc:date>
     </item>
-    <dc:date>2014-02-12T23:19:11Z</dc:date>
+    <dc:date>2014-02-13T22:01:42Z</dc:date>
   </channel>
 </rss>
