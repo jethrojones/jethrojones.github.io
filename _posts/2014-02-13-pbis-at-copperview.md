@@ -31,9 +31,10 @@ We take pictures of our kids making good choices and display them on a TV that i
 #Rewards
 We offer various rewards: cougar coins, cougar cash, tokens, cougar tracks, and other rewards and incentives in each individual classroom. These are used to remind students of the right choice to make. While rewards are nice, we really want to teach children how to make good choices that help them be the best they can be. 
 
-#Timeline
+#Kids Out of Class 
+We have greatly reduced the time kids are out of class when they have made a bad choice. We deal with situations as they arise, but if it is not an emergency, we try to deal with the situations in times that are not impacting instruction as much (PE, library, computers, lunches, recesses, transition times, etc.) My interview process has shortened significantly, and I have improved the kinds of questions I ask. Kids are more consistently taking responsibility for their actions, which leads to a quicker phone call to parents, and less time spent out of class. I'd estimate my time on each incident at closer to 10-15 minutes per person than the 30 originally spent. Of course, there are exceptions to that. I'll have to write another post about that interview process at another time. 
 
-What did we do when? 
+#Timeline - What did we do when? 
 
 ##2011-2012 
 
