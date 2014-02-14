@@ -46,6 +46,7 @@ What did we do when?
 
 * Taught expectations to students in each location at beginning of school year and after winter break
 * Playworks
+* Created and hung posters explaining how to behave in every location
 * PBIS Coach
 * CHAMPS implementation
 * Refined cougar cash and coins
@@ -59,5 +60,6 @@ What did we do when?
 * Token Tower
 * Student of the Month based on character traits taught by PBIS Coach
 * CHAMPS implementation, year 2
+* Cougar Tracks
 
 I am sure there is more, and I will update this post as I remember the things we have done. 
