@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  How to share all the great things you do with Melinda Miller
+title:  Positive Intentions with Melinda Miller - Episode 11 - Transformative Principal
 comments: true
-date:   2014-02-09 20:05:34
+date:   2014-02-16 00:05:34
 categories: podcast elementary
 ---
 
