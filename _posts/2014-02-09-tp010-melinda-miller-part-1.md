@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  How to share all the great things you do with Melinda Miller
+title:  How to share all the great things you do with Melinda Miller - Episode 10 - Transformative Principal
 comments: true
 date:   2014-02-09 20:05:34
-categories: podcast elementary
+categories: podcast elementary tp
 ---
 
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/destination/id/171591/height/360/width/640/theme/standard/direction/no/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/" height="360" width="640" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
