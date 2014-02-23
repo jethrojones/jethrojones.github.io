@@ -9,7 +9,16 @@
     <link>http://jethrojones.com</link>
     <description>Awesome RSS feed for jethrojones.com</description>
     <copyright>(C) Jethro Jones 2014</copyright>
-    <pubDate>Sun, 16 Feb 2014 00:05:34 -0000</pubDate>
+    <pubDate>Sat, 22 Feb 2014 22:13:25 -0000</pubDate>
+    <item>
+      <title>Startup Weekend Provo</title>
+      <link>http://jethrojones.com/2014/02/22/SWProvo/</link>
+      <description>&lt;p&gt;About a year and half ago, my cousin/friend &lt;a href=&quot;http://twitter.com/unculturedswine&quot;&gt;Joel (@unculturedswine)&lt;/a&gt; invited me to go with him to this thing called &lt;a href=&quot;http://startupweekend.org&quot;&gt;&amp;quot;Startup Weekend&amp;quot;&lt;/a&gt; and try to start a business with him in 54 hours. From that was born &lt;a href=&quot;http://creatives4edu.com&quot;&gt;Creatives for Education&lt;/a&gt;, which hasn&amp;#39;t really caught on like I thought it would. &lt;/p&gt;
+</description>
+      <pubDate>Sat, 22 Feb 2014 22:13:25 -0000</pubDate>
+      <guid>http://jethrojones.com/2014/02/22/SWProvo/</guid>
+      <dc:date>2014-02-22T22:13:25Z</dc:date>
+    </item>
     <item>
       <title>Positive Intentions with Melinda Miller - Episode 11 - Transformative Principal</title>
       <link>http://jethrojones.com/2014/02/16/tp011-melinda-miller-part-2/</link>
@@ -226,6 +235,6 @@
       <guid>http://jethrojones.com/2013/12/01/podcast-introduction/</guid>
       <dc:date>2013-12-01T21:52:26Z</dc:date>
     </item>
-    <dc:date>2014-02-16T00:05:34Z</dc:date>
+    <dc:date>2014-02-22T22:13:25Z</dc:date>
   </channel>
 </rss>
