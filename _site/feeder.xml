@@ -9,7 +9,18 @@
     <link>http://jethrojones.com</link>
     <description>Awesome RSS feed for jethrojones.com</description>
     <copyright>(C) Jethro Jones 2014</copyright>
-    <pubDate>Sat, 22 Feb 2014 22:13:25 -0000</pubDate>
+    <pubDate>Sun, 23 Feb 2014 09:50:20 -0000</pubDate>
+    <item>
+      <title>Digital Leadership with Eric Sheninger - Transformative Principal Episode 012</title>
+      <link>http://jethrojones.com/2014/02/23/tp-012/</link>
+      <description>&lt;h2&gt;Sponsor&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.sanebox.com/signup/b6fc4007b2&quot;&gt;Sanebox&lt;/a&gt; Avoid email insanity. Start saving time by using Sanebox which acts as a personal secretary, keeping all the unimportant emails from interrupting my day. I get an email digest of all the emails that I missed during the day at a time when I choose. I love Sanebox and I think you will, too! &lt;/p&gt;
+</description>
+      <pubDate>Sun, 23 Feb 2014 09:50:20 -0000</pubDate>
+      <guid>http://jethrojones.com/2014/02/23/tp-012/</guid>
+      <dc:date>2014-02-23T09:50:20Z</dc:date>
+    </item>
     <item>
       <title>Startup Weekend Provo</title>
       <link>http://jethrojones.com/2014/02/22/SWProvo/</link>
@@ -235,6 +246,6 @@
       <guid>http://jethrojones.com/2013/12/01/podcast-introduction/</guid>
       <dc:date>2013-12-01T21:52:26Z</dc:date>
     </item>
-    <dc:date>2014-02-22T22:13:25Z</dc:date>
+    <dc:date>2014-02-23T09:50:20Z</dc:date>
   </channel>
 </rss>
