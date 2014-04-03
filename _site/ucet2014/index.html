@@ -39,72 +39,882 @@
             <a class="extra" href="/ucet2014">UCET 2014</a>
           </div>
 
-          <div align="center" id="UCET">
-<h1 id="toolsin60minutesforbusyadministrators">60 Tools in 60 Minutes for Busy Administrators</h1>
+          <!-- CSS -->
+<style> 
+#wrapper {
+  padding: 20px;
+}
+@font-face {
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Josefin Sans Light'), local('JosefinSans-Light'), url(http://themes.googleusercontent.com/static/fonts/josefinsans/v4/C6HYlRF50SGJq1XyXj04z2B7wJ9CoPCp9n30ZBThZ1I.woff) format('woff');
+}
+@font-face {
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Josefin Sans'), local('JosefinSans'), url(http://themes.googleusercontent.com/static/fonts/josefinsans/v4/xgzbb53t8j-Mo-vYa23n5qRDOzjiPcYnFooOUGCOsRk.woff) format('woff');
+}
+@font-face {
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Josefin Sans Bold'), local('JosefinSans-Bold'), url(http://themes.googleusercontent.com/static/fonts/josefinsans/v4/C6HYlRF50SGJq1XyXj04zxAPw1J91axKNXP_-QX9CC8.woff) format('woff');
+}
+
+/*! normalize.css v2.1.3 | MIT License | git.io/normalize */
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+nav,
+section,
+summary {
+  display: block;
+}
+
+audio,
+canvas,
+video {
+  display: inline-block;
+}
+
+audio:not([controls]) {
+  display: none;
+  height: 0;
+}
+
+[hidden],
+template {
+  display: none;
+}
+
+html {
+  font-family: sans-serif;
+  -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+}
+
+a {
+  background: transparent;
+}
+
+a:focus {
+  outline: thin dotted;
+}
+
+a:active,
+a:hover {
+  outline: 0;
+}
+
+h1 {
+  margin: 0.67em 0;
+  font-size: 2em;
+}
+
+abbr[title] {
+  border-bottom: 1px dotted;
+}
+
+b,
+strong {
+  font-weight: bold;
+}
+
+dfn {
+  font-style: italic;
+}
+
+hr {
+  height: 0;
+  -moz-box-sizing: content-box;
+       box-sizing: content-box;
+}
+
+mark {
+  color: #000;
+  background: #ff0;
+}
+
+code,
+kbd,
+pre,
+samp {
+  font-family: monospace, serif;
+  font-size: 1em;
+}
+
+pre {
+  white-space: pre-wrap;
+}
+
+q {
+  quotes: "\201C" "\201D" "\2018" "\2019";
+}
+
+small {
+  font-size: 80%;
+}
+
+sub,
+sup {
+  position: relative;
+  font-size: 75%;
+  line-height: 0;
+  vertical-align: baseline;
+}
+
+sup {
+  top: -0.5em;
+}
+
+sub {
+  bottom: -0.25em;
+}
+
+img {
+  border: 0;
+}
+
+svg:not(:root) {
+  overflow: hidden;
+}
+
+figure {
+  margin: 0;
+}
+
+fieldset {
+  padding: 0.35em 0.625em 0.75em;
+  margin: 0 2px;
+  border: 1px solid #c0c0c0;
+}
+
+legend {
+  padding: 0;
+  border: 0;
+}
+
+button,
+input,
+select,
+textarea {
+  margin: 0;
+  font-family: inherit;
+  font-size: 100%;
+}
+
+button,
+input {
+  line-height: normal;
+}
+
+button,
+select {
+  text-transform: none;
+}
+
+button,
+html input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+  cursor: pointer;
+  -webkit-appearance: button;
+}
+
+button[disabled],
+html input[disabled] {
+  cursor: default;
+}
+
+input[type="checkbox"],
+input[type="radio"] {
+  padding: 0;
+  box-sizing: border-box;
+}
+
+input[type="search"] {
+  -webkit-box-sizing: content-box;
+     -moz-box-sizing: content-box;
+          box-sizing: content-box;
+  -webkit-appearance: textfield;
+}
+
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+  padding: 0;
+  border: 0;
+}
+
+textarea {
+  overflow: auto;
+  vertical-align: top;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+@media print {
+  * {
+    color: #000 !important;
+    text-shadow: none !important;
+    background: transparent !important;
+    box-shadow: none !important;
+  }
+  a,
+  a:visited {
+    text-decoration: underline;
+  }
+  a[href]:after {
+    content: " (" attr(href) ")";
+  }
+  abbr[title]:after {
+    content: " (" attr(title) ")";
+  }
+  a[href^="javascript:"]:after,
+  a[href^="#"]:after {
+    content: "";
+  }
+  pre,
+  blockquote {
+    border: 1px solid #999;
+    page-break-inside: avoid;
+  }
+  thead {
+    display: table-header-group;
+  }
+  tr,
+  img {
+    page-break-inside: avoid;
+  }
+  img {
+    max-width: 100% !important;
+  }
+  @page  {
+    margin: 2cm .5cm;
+  }
+  p,
+  h2,
+  h3 {
+    orphans: 3;
+    widows: 3;
+  }
+  h2,
+  h3 {
+    page-break-after: avoid;
+  }
+  select {
+    background: #fff !important;
+  }
+  .navbar {
+    display: none;
+  }
+  .table td,
+  .table th {
+    background-color: #fff !important;
+  }
+  .btn > .caret,
+  .dropup > .btn > .caret {
+    border-top-color: #000 !important;
+  }
+  .label {
+    border: 1px solid #000;
+  }
+  .table {
+    border-collapse: collapse !important;
+  }
+  .table-bordered th,
+  .table-bordered td {
+    border: 1px solid #ddd !important;
+  }
+}
+
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  line-height: 1.428571429;
+  color: #333333;
+  background-color: #f7f7f7;
+}
+
+input,
+button,
+select,
+textarea {
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
+
+a {
+  color: #d9230f;
+  text-decoration: none;
+}
+
+a:hover,
+a:focus {
+  color: #91170a;
+  text-decoration: underline;
+}
+
+a:focus {
+  outline: thin dotted;
+  outline: 5px auto -webkit-focus-ring-color;
+  outline-offset: -2px;
+}
+
+img {
+  vertical-align: middle;
+}
+
+.img-responsive {
+  display: block;
+  height: auto;
+  max-width: 100%;
+}
+
+.img-rounded {
+  border-radius: 6px;
+}
+
+.img-thumbnail {
+  display: inline-block;
+  height: auto;
+  max-width: 100%;
+  padding: 4px;
+  line-height: 1.428571429;
+  background-color: #f7f7f7;
+  border: 1px solid #dddddd;
+  border-radius: 4px;
+  -webkit-transition: all 0.2s ease-in-out;
+          transition: all 0.2s ease-in-out;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+
+hr {
+  margin-top: 18px;
+  margin-bottom: 18px;
+  border: 0;
+  border-top: 1px solid #eeeeee;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+  font-family: "Josefin Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 500;
+  line-height: 1.1;
+  color: inherit;
+}
+
+h1 small,
+h2 small,
+h3 small,
+h4 small,
+h5 small,
+h6 small,
+.h1 small,
+.h2 small,
+.h3 small,
+.h4 small,
+.h5 small,
+.h6 small,
+h1 .small,
+h2 .small,
+h3 .small,
+h4 .small,
+h5 .small,
+h6 .small,
+.h1 .small,
+.h2 .small,
+.h3 .small,
+.h4 .small,
+.h5 .small,
+.h6 .small {
+  font-weight: normal;
+  line-height: 1;
+  color: #999999;
+}
+
+h1,
+h2,
+h3 {
+  margin-top: 18px;
+  margin-bottom: 9px;
+}
+
+h1 small,
+h2 small,
+h3 small,
+h1 .small,
+h2 .small,
+h3 .small {
+  font-size: 65%;
+}
+
+h4,
+h5,
+h6 {
+  margin-top: 9px;
+  margin-bottom: 9px;
+}
+
+h4 small,
+h5 small,
+h6 small,
+h4 .small,
+h5 .small,
+h6 .small {
+  font-size: 75%;
+}
+
+h1,
+.h1 {
+  font-size: 33px;
+}
+
+h2,
+.h2 {
+  font-size: 27px;
+}
+
+h3,
+.h3 {
+  font-size: 23px;
+}
+
+h4,
+.h4 {
+  font-size: 17px;
+}
+
+h5,
+.h5 {
+  font-size: 13px;
+}
+
+h6,
+.h6 {
+  font-size: 12px;
+}
+
+p {
+  margin: 0 0 9px;
+}
+
+.lead {
+  margin-bottom: 18px;
+  font-size: 14px;
+  font-weight: 200;
+  line-height: 1.4;
+}
+
+@media (min-width: 768px) {
+  .lead {
+    font-size: 19.5px;
+  }
+}
+
+small,
+.small {
+  font-size: 85%;
+}
+
+cite {
+  font-style: normal;
+}
+
+dl {
+  margin-top: 0;
+  margin-bottom: 18px;
+}
+
+dt,
+dd {
+  line-height: 1.428571429;
+}
+
+dt {
+  font-weight: bold;
+}
+
+dd {
+  margin-left: 0;
+}
+
+abbr[title],
+abbr[data-original-title] {
+  cursor: help;
+  border-bottom: 1px dotted #999999;
+}
+
+.initialism {
+  font-size: 90%;
+  text-transform: uppercase;
+}
+
+blockquote {
+  padding: 9px 18px;
+  margin: 0 0 18px;
+  border-left: 5px solid #eeeeee;
+}
+
+blockquote p {
+  font-size: 16.25px;
+  font-weight: 300;
+  line-height: 1.25;
+}
+
+blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+blockquote small,
+blockquote .small {
+  display: block;
+  line-height: 1.428571429;
+  color: #999999;
+}
+
+blockquote small:before,
+blockquote .small:before {
+  content: '\2014 \00A0';
+}
+
+blockquote.pull-right {
+  padding-right: 15px;
+  padding-left: 0;
+  border-right: 5px solid #eeeeee;
+  border-left: 0;
+}
+
+blockquote.pull-right p,
+blockquote.pull-right small,
+blockquote.pull-right .small {
+  text-align: right;
+}
+
+blockquote.pull-right small:before,
+blockquote.pull-right .small:before {
+  content: '';
+}
+
+blockquote.pull-right small:after,
+blockquote.pull-right .small:after {
+  content: '\00A0 \2014';
+}
+
+blockquote:before,
+blockquote:after {
+  content: "";
+}
+
+address {
+  margin-bottom: 18px;
+  font-style: normal;
+  line-height: 1.428571429;
+}
+
+code,
+kbd,
+pre,
+samp {
+  font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+code {
+  padding: 2px 4px;
+  font-size: 90%;
+  color: #c7254e;
+  white-space: nowrap;
+  background-color: #f9f2f4;
+  border-radius: 4px;
+}
+
+pre {
+  display: block;
+  padding: 8.5px;
+  margin: 0 0 9px;
+  font-size: 12px;
+  line-height: 1.428571429;
+  color: #333333;
+  word-break: break-all;
+  word-wrap: break-word;
+  background-color: #f5f5f5;
+  border: 1px solid #cccccc;
+  border-radius: 4px;
+}
+
+pre code {
+  padding: 0;
+  font-size: inherit;
+  color: inherit;
+  white-space: pre-wrap;
+  background-color: transparent;
+  border-radius: 0;
+}
 
 
+fieldset {
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
 
-<!--
+legend {
+  display: block;
+  width: 100%;
+  padding: 0;
+  margin-bottom: 18px;
+  font-size: 19.5px;
+  line-height: inherit;
+  color: #333333;
+  border: 0;
+  border-bottom: 1px solid #e5e5e5;
+}
 
-<h2 id="productivity">Productivity</h2>
+label {
+  display: inline-block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
 
+input[type="search"] {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
 
-<li><a href="https://itunes.apple.com/us/app/textexpander-for-mac/id405274824?mt=12&amp;at=1l3vatw">TextExpander</a> - Long things you type can be typed by small snippets. For example, when I type wemail it expands to my work email address, jethro.jones@canyonsdistrict.org (Also available for <a href="https://itunes.apple.com/us/app/textexpander/id326180690?mt=8&amp;at=1l3vatw">iOS</a>)</li>
-<li>Skitch <a href="https://itunes.apple.com/us/app/skitch-snap.-mark-up.-send./id490505997?mt=8&amp;uo=4&amp;at=1l3vatw">For iOS</a><a href="https://itunes.apple.com/us/app/skitch-snap.-mark-up.-share./id425955336?mt=12&amp;uo=4&amp;at=1l3vatw">For Mac</a>- Annotate Images</li>
-<li><a href="http://www.noodlesoft.com">Hazel</a> - Automate processes on your mac</li>
+input[type="radio"],
+input[type="checkbox"] {
+  margin: 4px 0 0;
+  margin-top: 1px \9;
+  /* IE8-9 */
+
+  line-height: normal;
+}
+
+input[type="file"] {
+  display: block;
+}
+
+select[multiple],
+select[size] {
+  height: auto;
+}
+
+select optgroup {
+  font-family: inherit;
+  font-size: inherit;
+  font-style: inherit;
+}
+
+input[type="file"]:focus,
+input[type="radio"]:focus,
+input[type="checkbox"]:focus {
+  outline: thin dotted;
+  outline: 5px auto -webkit-focus-ring-color;
+  outline-offset: -2px;
+}
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+  height: auto;
+}
+
+output {
+  display: block;
+  padding-top: 9px;
+  font-size: 13px;
+  line-height: 1.428571429;
+  color: #333333;
+  vertical-align: middle;
+}
+</style> 
+<!-- End CSS -->
+
+<div  id="UCET">
+<h1 align="center" id="toolsin60minutesforbusyadministrators">60 Tools in 60 Minutes for Busy Administrators</h1>
+
+<h4 align="center" id="april3at2:00inroom217april4at1:00pminroom217">April 3 at 2:00 in Room 217 </br>April 4 at 1:00 pm in Room 217</h4>
+
+<h3 id="disclaimer">Disclaimer</h3>
+
+<p>Obviously, there is no way I can get through all of these in <strike>60</strike> 50 minutes. That&#8217;s why I made this webpage! You can check these things out and take a little time learning more about them. I am going to go fast in my presentation, and I am going to cover a lot of ground. But I hope to whet your appetite with some of these tools that save me hours of time. </p>
+
+<p>Also, I am a Mac geek, so many of these things will be focused on Mac and iOS. While I have used PCs (I used to build them) and Android, I don&#8217;t use them much now and I don&#8217;t have much context for them. </p>
+
+<p>I am not sharing anything that I do not use in some way, nor am I sharing anything that does not help me manage my time and life and an administrator.</p>
+
+<h3 id="productivity">Productivity</h3>
+
+<ol>
+<li><a href="https://itunes.apple.com/us/app/readquick-speed-reader-for/id515138359?mt=8&amp;at=1l3vatw">Read Quick</a> (with <a href="https://itunes.apple.com/us/app/instapaper/id288545208?mt=8&amp;at=1l3vatw">Instapaper</a> or <a href="https://itunes.apple.com/us/app/pocket-formerly-read-it-later/id309601447?mt=8&amp;at=1l3vatw">Pocket</a>) - Read web pages super fast.
+<a href="http://jethrojones.com/assets/readquick.gif">ReadQuick Demo Gif</a></li>
+<li><a href="https://itunes.apple.com/us/app/textexpander-for-mac/id405274824?mt=12&amp;at=1l3vatw">TextExpander</a> - Long things you type can be typed by small snippets. For example, when I type wemail it expands to my work email address, jethro.jones@canyonsdistrict.org (Also available for <a href="https://itunes.apple.com/us/app/textexpander/id326180690?mt=8&amp;at=1l3vatw">iOS</a>) <a href="http://jethrojones.com/assets/TextExpanderdemo.gif">TextExpander Demo Gif</a></li>
+<li>Skitch <a href="https://itunes.apple.com/us/app/skitch-snap.-mark-up.-send./id490505997?mt=8&amp;uo=4&amp;at=1l3vatw">For iOS</a> - <a href="https://itunes.apple.com/us/app/skitch-snap.-mark-up.-share./id425955336?mt=12&amp;uo=4&amp;at=1l3vatw">For Mac</a> - Annotate Images. <a href="http://jethrojones.com/assets/skitchdemo.gif">Demo Gif</a></li>
+<li><a href="http://www.noodlesoft.com">Hazel</a> - Automate processes on your mac. This app is amazing.</li>
+<li><a href="http://support.apple.com/kb/ht2488">Automator</a> - Comes with every Mac. Want to resize photos in a folder without opening Photoshop or something like it? This workflow will do it.
+</br><img src="http://jethrojones.com/assets/Automatically-resize-photos.png" alt="Automatically Resize Photos" />
+Bonus points for using Hazel to have that happen as soon as you put the file in the folder.</li>
 <li><a href="http://www.keyboardmaestro.com/main/">Keyboard Maestro</a>. Ever have to copy something from one program to another (School Land TRUST plans &amp; Excel spreadsheets anyone?) ⌘+SHIFT+C will copy, switch to another application or window, paste it, move to next area to paste, then switch back to your original application or window. BAM! <a href="https://itunes.apple.com/us/app/keyboard-maestro-control/id298045982?mt=8&amp;uo=4&amp;at=1l3vatw">iPhone Control App</a> if you want to get really nerdy.</li>
+<li><a href="https://itunes.apple.com/us/book/paperless-principal/id558201943?mt=11&amp;at=1l3vatw">Paperless Principal</a> - This is a book I wrote that explores how to be a paperless principal. I save countless hours each week using the strategies in this book.</li>
 <li><a href="http://basecamp.com">Basecamp</a>, educators can get a free account. Project Management software for your school. This is for the $100/month package (100 projects, 40GB of space). That is some serious savings.</li>
 <li><a href="https://itunes.apple.com/us/app/google-voice/id318698524?mt=8&amp;at=1l3vatw">Google Voice</a> - New number that can record calls and provide text message logs. Very handy for texting parents. My number is (801) 7-JETHRO. Call me, maybe.</li>
 <li>1Password. <a href="https://itunes.apple.com/us/app/1password-password-manager/id443987910?mt=12&amp;at=1l3vatw">Mac</a> and <a href="https://itunes.apple.com/us/app/1password-password-manager/id568903335?mt=8&amp;at=1l3vatw">iOS</a> - Greatest vault of passwords ever. Generates and saves passwords like &#8220;gimi8jo6rha7mib&#8221; then it will autofill them for you.</li>
 <li><a href="http://evernote.com">Evernote</a> - You really should know about this by now. ;) Virtual junk drawer.</li>
 <li><a href="http://bit.ly/1mLVUtj">Sanebox</a> - filters out email that doesn&#8217;t need to interrupt you (they sponsor my podcast).</li>
-<li><a href="https://itunes.apple.com/us/app/launch-center-pro/id532016360?mt=8#&amp;at=1l3vatw">Launch Center Pro</a> for iPhone (Create workflows that do things faster.)</li>
+<li><a href="https://itunes.apple.com/us/app/launch-center-pro/id532016360?mt=8#&amp;at=1l3vatw">Launch Center Pro</a> for iPhone. Create workflows that do things faster. <a href="http://jethrojones.com/assets/launchcenterpro.mov">Launch Center Pro Video</a></li>
 <li><a href="https://itunes.apple.com/us/app/scoa/id494707509?mt=8#&amp;at=1l3vatw">SCOA app</a> - Classroom observations with data collection built in. Ugly, but great walkthrough app.</li>
+<li><a href="https://itunes.apple.com/us/app/mynd-smart-calendar-meeting/id568604969?mt=8&amp;at=1l3vatw">Mynd</a> - different looking app for calendar management. Gives you an overview of your day, especially nice if you have pictures with your contacts. </br><img src="http://jethrojones.com/assets/mynd.png" alt="Mynd" /></li>
+<li><a href="https://itunes.apple.com/us/app/popclip/id445189367?mt=12&amp;at=1l3vatw">PopClip</a> - This app&#8217;s menu appears when you select text with your mouse. It allows you to cut, copy, paste, search, link, lookup and more from the little contextual menu. (You can even add extras <a href="https://pilotmoon.com/popclip/extensions/">here</a>)</li>
+<li><a href="http://www.acqualia.com/soulver">Soulver</a> This app allows you to write out your math problems rather than just enter numbers in a calculator. <a href="https://itunes.apple.com/us/app/soulver-notepad-calculator/id348142037?mt=8&amp;at=1l3vatw">For iOS</a> and <a href="https://itunes.apple.com/us/app/soulver/id413965349?mt=12&amp;at=1l3vatw">Mac</a></li>
+<li><p><a href="https://bufferapp.com">BufferApp</a> - <a href="https://itunes.apple.com/us/app/buffer-for-twitter-facebook/id490474324?mt=8&amp;at=1l3vatw">For iPhone</a> - Posts things to the social media later. </p></li>
 </ol>
 
-<h2 id="professionaldevelopment">Professional Development</h2>
+<h3 id="professionaldevelopment">Professional Development</h3>
 
-<ol>
-<li>Podcasts
+
+<h4>Podcasts - I listen to podcasts because they are usually current and practical. They are best practices across the country. You can learn a lot from other people. </h4>
 
 <ol>
 <li><a href="http://transformativeprincipal.com">Transformative Principal</a> Yes, self-serving, I know. My podcast. Interviews with transformative principals offering practical advice for being awesome. I shoot for about 30 minutes each episode. I would love your feedback. Again, call me, maybe. (801) 7-JETHRO</li>
 <li><a href="https://www.daveramsey.com/entreleadership/podcast">Entreleadership Podcast</a> This podcast is about leadership in business settings, but so much is applicable to education, except we don&#8217;t make money.</li>
 <li><a href="https://itunes.apple.com/us/podcast/chris-locurto/id522095976?mt=2&amp;uo=4&amp;at=1l3vatw">Chris Locurto Podcast</a> - Former host of Entreleadership podcast, went out on his own, and he has a lot of great content.</li>
 <li><a href="http://directory.libsyn.com/shows/view/id/rockstarprincipals">Rockstar Principals Podcast</a> - fun and sometimes irreverent show discussing research, practice, mafia, and more.</li>
-<li><a href="http://www.bamradionetwork.com/index.php">BAM! Radio - Educator&#8217;s Radio</a>
-
-<ol>
+<li><a href="http://www.bamradionetwork.com/index.php">BAM! Radio - Educator&#8217;s Radio</a></h4>
 <li><a href="http://www.bamradionetwork.com/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=104&amp;Itemid=277">BrandEd</a> <a href="https://twitter.com/Joesanfelippofc">Joe Sanfelippo</a> and <a href="http://www.twitter.com/TonySinanis">Tony Sinanis</a> discuss how to be the one to tell your school&#8217;s story.</li>
-</ol></li>
-<li><a href="http://edreach.us">EdReach Network</a> Many education-related podcasts. My two faves for Admins:
 
-<ol>
+<li><a href="http://edreach.us">EdReach Network</a> Many education-related podcasts. My two faves for Admins:</li>
+
+
 <li><a href="http://edreach.us/channel/missionmonday/">Mission Monday</a> - Weekly podcast about your focus for the week.</li>
 <li><a href="http://edreach.us/channel/ed-admin/">EdAdmin Minute</a> - Short, informative, daily podcast. 1&#8211;2 minutes.</li>
+
 </ol></li>
+<h4>Podcast Apps</h4>
+
+<ol>
+<li><a href="https://itunes.apple.com/us/app/instacast-4-podcast-client/id577056377?mt=8&amp;at=1l3vatw">Instacast</a> - Good search client, playlists and other list creations. Syncs between iOS and Mac.</li>
+<li><a href="https://itunes.apple.com/us/app/podcasts/id525463029?mt=8&amp;at=1l3vatw">Podcasts</a> - By Apple. Good app, syncs between all devices.</li>
+<li><a href="https://itunes.apple.com/us/app/castro-high-fidelity-podcasts/id723142770?mt=8&amp;at=1l3vatw">Castro</a> - Very pretty app. No syncing, but really cool scrubbing process.</li>
+<li>Android App <a href="https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict">Podcast Addict</a> Good app for podcast listening on Android.</li>
 </ol></li>
-<li>Blogs
+<h4>Blogs</h4>
 
 <ol>
 <li><a href="http://connectedprincipals.com">Connected Principals</a> - I follow that blog, when a couple posts by the same person speak to me, I start following that person&#8217;s blog.</li>
 <li><a href="http://www.storytellingwithdata.com">Storytelling with Data</a> - Cole Nussbaumer <a href="https://twitter.com/storywithdata">@storywithdata</a> is really good about teaching you how to use data to tell a story. Tips and tricks for making it look great and communicate what you want it to communicate.</li>
-<li>[21st Century Principal] - Principal who blogs about everything from politics to technology to whatever else. Usually thoughtful prose. <em>Most important items bolded</em> to make for a fast read.</li>
+<li><a href="http://the21stcenturyprincipal.blogspot.com">21st Century Principal</a> - Principal who blogs about everything from politics to technology to whatever else. Usually thoughtful prose. <em>Most important items bolded</em> to make for a fast read.</li>
 <li><a href="http://practicaltheory.org/blog/">Practical Theory</a> - <a href="https://twitter.com/chrislehmann">Chris Lehmann</a>, Principal of the Science Leadership Academy in Philadelphia blogs about the issues facing him. Powerful recent posts about the budget crisis in Philadelphia, but he also blogs about many other educational topics.</li>
 <li><a href="http://www.principalspage.com/theblog/">Principal&#8217;s Page</a> - Michael Smith is actually a superintendent, but still blogs sarcastically about educational topics. He also has a bunch of great stuff <a href="http://www.principalspage.com">not on the blog</a>.</li>
 <li><a href="http://chriswejr.com">The Wejr Board</a> - One of the best interviews on my podcast (coming soon) was with Chris Wejr <a href="http://twitter.com/chriswejr">@chriswejr</a>. He is very thoughtful and he has a very different take on student rewards and discipline than most that I have spoken with in education.</li>
+<li>Ed Chats (<a href="http://cybraryman.com/chats.html">More info here</a>) - While not a blog exactly, ed chats give you the opportunity to discuss educational topics on the twitter. Use hashtags (#) to denote affiliation with something. (#cpchat, #edchat, #satchat) Pro tip: use official twitter client to search for chat, so you can start a new tweet from the search screen, with the chat hashtag already supplied.</li>
 </ol></li>
-<li>Ed Chats (<a href="http://cybraryman.com/chats.html">More info here</a>) - Discuss educational topics on the twitter. Use hashtags (#) to denote affiliation with something. (#cpchat, #edchat, #satchat) Pro tip: use official twitter client to search for chat, so you can start a new tweet from the search screen, with the chat hashtag already supplied.</li>
-<li>Managing Personal and School Twitter accounts (Use different apps for each account <a href="https://itunes.apple.com/us/app/id722294701?mt=8&amp;at=1l3vatw">Tweetbot</a> for personal, <a href="https://itunes.apple.com/us/app/twitterrific-5-for-twitter/id580311103?mt=8&amp;at=1l3vatw">Twitterific</a> for professional).</li>
+
+
+<h3 id="webautomation">Web Automation</h3>
+
+<ol>
+
+<h4><p><a href="https://ifttt.com/dashboard">IFTTT</a> - (And for <a href="https://itunes.apple.com/us/app/ifttt/id660944635?mt=8&amp;at=1l3vatw">iPhone</a>) This web app allows you to do automated things on the Internet. "If [a certain event] occurs online, then [another event] will be triggered." These are called recipes, and they are amazing.</p></h4>
+
+<ol>
+<li>Automatically send posts on web site to Twitter. </br><a href="https://ifttt.com/view_embed_recipe/158482-newsfeed-from-school-to-buffer" target = "_blank" class="embed_recipe embed_recipe-l_30" id= "embed_recipe-158482"><img src= 'https://ifttt.com/recipe_embed_img/158482' alt="IFTTT Recipe: Newsfeed from School to Buffer connects feed to buffer" width="370px" style="max-width:100%"/></a><script async type="text/javascript" src= "//ifttt.com/assets/embed_recipe.js"></script></li>
+<li>Shipping Notification to Junecloud Shipping Notification Service.</br>
+<a href="https://ifttt.com/view_embed_recipe/71909-amazon-shipping-to-junecloud-delivery-status-tracking" target = "_blank" class="embed_recipe embed_recipe-l_53" id= "embed_recipe-71909"><img src= 'https://ifttt.com/recipe_embed_img/71909' alt="IFTTT Recipe: amazon shipping to junecloud delivery status tracking connects gmail to gmail" width="370px" style="max-width:100%"/></a><script async type="text/javascript" src= "//ifttt.com/assets/embed_recipe.js"></script></li>
+<li>I use Foursquare to check in to places for mileage reimbursement. This creates a text file in Dropbox with all the places I have been listed. Then, I use Google maps to map out my mileage reimbursement.</br>
+<a href="https://ifttt.com/view_embed_recipe/42611-foursquare-check-in" target = "_blank" class="embed_recipe embed_recipe-l_19" id= "embed_recipe-42611"><img src= 'https://ifttt.com/recipe_embed_img/42611' alt="IFTTT Recipe: Foursquare Check-In connects foursquare to dropbox" width="370px" style="max-width:100%"/></a><script async type="text/javascript" src= "//ifttt.com/assets/embed_recipe.js"></script></li>
+<li>This recipe will do the same thing as the previous one, but it will allow me to have a spreadsheet format, which may work better. I haven&#8217;t used this to do mileage reimbursement, but it has been triggered 131 times, so the timing is probably right. ;)</br>
+<a href="https://ifttt.com/view_embed_recipe/58835-track-foursquare-check-ins-w-maps-in-a-google-drive-spreadsheet" target = "_blank" class="embed_recipe embed_recipe-l_66" id= "embed_recipe-58835"><img src= 'https://ifttt.com/recipe_embed_img/58835' alt="IFTTT Recipe: Track Foursquare check-ins (w/ Maps) in a Google Drive Spreadsheet connects foursquare to google-drive" width="370px" style="max-width:100%"/></a><script async type="text/javascript" src= "//ifttt.com/assets/embed_recipe.js"></script></li>
+<li>Note to self - Sends me an email with an mp3 and a transcript. Pretty awesome.</br>
+<a href="https://ifttt.com/view_embed_recipe/635-note-to-self" target = "_blank" class="embed_recipe embed_recipe-l_12" id= "embed_recipe-635"><img src= 'https://ifttt.com/recipe_embed_img/635' alt="IFTTT Recipe: Note to self connects phone-call to gmail" width="370px" style="max-width:100%"/></a><script async type="text/javascript" src= "//ifttt.com/assets/embed_recipe.js"></script></li>
+<li>Wish friends a happy birthday automatically. Never forget another birthday!</br>
+<a href="https://ifttt.com/view_embed_recipe/114870-wish-people-a-happy-birthday-automatically" target = "_blank" class="embed_recipe embed_recipe-l_44" id= "embed_recipe-114870"><img src= 'https://ifttt.com/recipe_embed_img/114870' alt="IFTTT Recipe: Wish people a happy birthday automatically.  connects google-calendar to facebook" width="370px" style="max-width:100%"/></a><script async type="text/javascript" src= "//ifttt.com/assets/embed_recipe.js"></script></li>
+<li>Keep your Facebook and Twitter profile pics in sync.</br>
+<a href="https://ifttt.com/view_embed_recipe/8981-when-facebook-profile-picture-changes-update-twitter-profile-picture" target = "_blank" class="embed_recipe embed_recipe-l_71" id= "embed_recipe-8981"><img src= 'https://ifttt.com/recipe_embed_img/8981' alt="IFTTT Recipe: When #Facebook profile picture changes, update #Twitter profile picture connects facebook to twitter" width="370px" style="max-width:100%"/></a><script async type="text/javascript" src= "//ifttt.com/assets/embed_recipe.js"></script></li>
+<li>Need to end a meeting? Send a text, get a phone call, politely excuse yourself.</br>
+<a href="https://ifttt.com/view_embed_recipe/12269-text-to-escape" target = "_blank" class="embed_recipe embed_recipe-l_14" id= "embed_recipe-12269"><img src= 'https://ifttt.com/recipe_embed_img/12269' alt="IFTTT Recipe: Text to escape connects sms to phone-call" width="370px" style="max-width:100%"/></a><script async type="text/javascript" src= "//ifttt.com/assets/embed_recipe.js"></script></li>
+<li>When you upload to Facebook, save the photo to Dropbox</br>
+<a href="https://ifttt.com/view_embed_recipe/158487-upload-a-photo-to-facebook-then-save-to-dropbox" target = "_blank" class="embed_recipe embed_recipe-l_50" id= "embed_recipe-158487"><img src= 'https://ifttt.com/recipe_embed_img/158487' alt="IFTTT Recipe: Upload a photo to #facebook, then save to #dropbox connects facebook to dropbox" width="370px" style="max-width:100%"/></a><script async type="text/javascript" src= "//ifttt.com/assets/embed_recipe.js"></script></li>
+<li>Automatically Post Blogger post to Twitter (different than Buffer above).</br>
+<a href="https://ifttt.com/view_embed_recipe/43224-tweet-blog-post-title-twitterversion-url" target = "_blank" class="embed_recipe embed_recipe-l_40" id= "embed_recipe-43224"><img src= 'https://ifttt.com/recipe_embed_img/43224' alt="IFTTT Recipe: Tweet Blog post Title-TwitterVersion-URL connects blogger to twitter" width="370px" style="max-width:100%"/></a><script async type="text/javascript" src= "//ifttt.com/assets/embed_recipe.js"></script></li>
+</ol></li>
 </ol>
 
--->
+<h3 id="generaltechtips">General Tech Tips</h3>
 
-
-</br>
-
-
-<h3>See you on April 3 at 2:00 and April 4 at 1:00 at UCET 2014 at Murray High School!</h3>
+<ol>
+<li>Managing Personal and School Twitter accounts (Use different apps for each account <a href="https://itunes.apple.com/us/app/id722294701?mt=8&amp;at=1l3vatw">Tweetbot</a> for personal, <a href="https://itunes.apple.com/us/app/twitterrific-5-for-twitter/id580311103?mt=8&amp;at=1l3vatw">Twitterific</a> for professional).</li>
+<li><a href="http://support.apple.com/kb/HT1343?viewlocale=en_US&amp;locale=en_US">Learn Mac shortcuts</a> and <a href="http://support.microsoft.com/kb/126449">Learn Pc Shortcuts</a></li>
+<li>Create your own keyboard shortcuts <a href="http://www.maclife.com/article/howtos/how_create_your_own_keyboard_shortcuts">Mac</a> or <a href="http://windows.microsoft.com/en-us/windows/create-keyboard-shortcuts-open-programs#1TC=windows-7">PC</a>. My favorite one is ⌘+SHIFT+, to open System Preferences (it makes sense because ⌘+, opens preferences in most programs).</li>
+<li>Time out iPad. If you have a kid who may use the iPad for 5 minutes, you can simply set the timer and set the alarm notification to &#8220;Stop Playing&#8221; which will then lock the iOS device so the passcode must be entered again.</br><img src="http://jethrojones.com/assets/stopplaying.png" alt="Stop Playing" /></li>
+<li><a href="https://itunes.apple.com/us/app/find-my-iphone/id376101648?mt=8&amp;at=1l3vatw">Find my iPhone</a> Set this up on all iOS devices that you use at your school, make sure you can locate them when you need to.</li>
+<li>Use a passcode on your Phone and other devices, there is too much valuable information stored there.</li>
+<li>Use an RSS Reader make web sites come to you instead of you going to them. I use <a href="http://www.feedly.com/">Feedly</a>.</li>
+<li>⌘+Shift+[ or ] moves between tabs with the keyboard in Safari, Chrome, Firefox.</li>
+<li>Update your computer regularly.</li>
+<li>Backup your data often.</li>
+<li>Tinker</li>
+<li>Remember, technology exists to make our lives easier: ensure it does.</li>
+<li>Have fun bending technology to your whims.</li>
+<li>Don&#8217;t be afraid to play around and learn new things.</li>
+</ol>
 
 
 <!-- Comments section Delete if breaks -->
