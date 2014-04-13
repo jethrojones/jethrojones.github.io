@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Branding Your School
+title:  Recognizing Your Own Skills with Tony Sinanis Transformative Principal 019
 comments: true
 date:   2014-04-13 10:39:49
 categories: podcast, leadership, marketing, branding
