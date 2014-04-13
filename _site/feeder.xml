@@ -9,7 +9,16 @@
     <link>http://jethrojones.com</link>
     <description>Awesome RSS feed for jethrojones.com</description>
     <copyright>(C) Jethro Jones 2014</copyright>
-    <pubDate>Thu, 10 Apr 2014 03:31:07 -0600</pubDate>
+    <pubDate>Sun, 13 Apr 2014 04:39:49 -0600</pubDate>
+    <item>
+      <title>Branding Your School</title>
+      <link>http://jethrojones.com/2014/04/13/tp-019-Tony-Sinanis/</link>
+      <description>&lt;p&gt;&lt;a href=&quot;http://mbsy.co/3jbnc&quot; target=&quot;_blank&quot; style=&quot;outline:none;border:none;&quot;&gt;&lt;img src=&quot;https://ambassador-api.s3.amazonaws.com/files/810_Sep_10_2013_00_03_15.jpg&quot; alt=&quot;Sanebox&quot; border=&quot;0&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+      <pubDate>Sun, 13 Apr 2014 04:39:49 -0600</pubDate>
+      <guid>http://jethrojones.com/2014/04/13/tp-019-Tony-Sinanis/</guid>
+      <dc:date>2014-04-13T04:39:49-06:00</dc:date>
+    </item>
     <item>
       <title>6 Tips for Building Trust</title>
       <link>http://jethrojones.com/2014/04/10/6-Tips+for-Building-Trust/</link>
@@ -18,6 +27,22 @@
       <pubDate>Thu, 10 Apr 2014 03:31:07 -0600</pubDate>
       <guid>http://jethrojones.com/2014/04/10/6-Tips+for-Building-Trust/</guid>
       <dc:date>2014-04-10T03:31:07-06:00</dc:date>
+    </item>
+    <item>
+      <title>Tp 018 George Couros</title>
+      <link>http://jethrojones.com/2014/04/06/tp-018-george-couros/</link>
+      <description>&lt;hr&gt;
+
+&lt;p&gt;layout: post
+title:  It is about Relationships with George Couros Transformative Principal 018
+comments: true
+date:   2014-04-06 10:52:37&lt;/p&gt;
+
+&lt;h2&gt;categories: special edition, george couros&lt;/h2&gt;
+</description>
+      <pubDate>Sun, 06 Apr 2014 00:00:00 -0600</pubDate>
+      <guid>http://jethrojones.com/2014/04/06/tp-018-george-couros/</guid>
+      <dc:date>2014-04-06T00:00:00-06:00</dc:date>
     </item>
     <item>
       <title>Building Up Teacher Leaders with Dr. Fidel Montero Transformative Principal 017</title>
@@ -300,6 +325,6 @@
       <guid>http://jethrojones.com/2013/12/01/podcast-introduction/</guid>
       <dc:date>2013-12-01T14:52:26-07:00</dc:date>
     </item>
-    <dc:date>2014-04-10T03:31:07-06:00</dc:date>
+    <dc:date>2014-04-13T04:39:49-06:00</dc:date>
   </channel>
 </rss>
