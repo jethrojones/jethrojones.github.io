@@ -2,7 +2,7 @@
 layout: post
 title:  Making sure the Brand Experience Matches the Brand Promise
 comments: true
-date:   2014-04-19 21:29:46
+date:   2014-04-20 11:29:46
 categories: podcast, elementary, social media, branding
 ---
 
