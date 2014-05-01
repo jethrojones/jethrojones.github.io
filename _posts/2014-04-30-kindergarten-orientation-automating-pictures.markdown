@@ -35,14 +35,17 @@ Automator takes care of that for me.
 ![Automator Example]({{ site.url }}/assets/automator-kinder.png)
 
 Here are the Automator steps: 
-1. Get Selected Finder Items
+
+1. *Get Selected Finder Items* -
 	This gets the Finder items that are selected in the frontmost finder window. I just selected the photos that I had taken. 
-2. Scale Images
+
+2. *Scale Images* -
 	I needed the images smaller, but not too small I had to play around with this one, but I got it to work well at about 50% scaling. 
-3. Move Finder Items
+
+3. *Move Finder Items* -
 	To not confuse myself, I had Automator move the pictures from the folder they were in to a folder in Dropbox called "Print these" which is shared with the office staff, where the pictures were printed. They did quality control and made sure all pictures printed correctly. 
-4. Insert Content into Word Documents
-	This is where the magic happens! Automator takes care of the annoying mouse clicks and just inserts the pictures into the document. I chose the bottom of the document, so that they would be in the same order as they were taken. 
+
+4. *Insert Content into Word Documents* - This is where the magic happens! Automator takes care of the annoying mouse clicks and just inserts the pictures into the document. I chose the bottom of the document, so that they would be in the same order as they were taken. 
 	
 #Bonus
 We took the pictures using the iPad. I had Camera Uploads turned on, so that when we took a picture, it almost instantly went to the camera uploads folder on Dropbox. That got it to my computer quickly. Using Hazel, I created a rule that watched the Camera Uploads folder for new files and moved them to a folder and then ran the Automator workflow on those files. 
