@@ -9,7 +9,16 @@
     <link>http://jethrojones.com</link>
     <description>Awesome RSS feed for jethrojones.com</description>
     <copyright>(C) Jethro Jones 2014</copyright>
-    <pubDate>Wed, 30 Apr 2014 16:32:10 -0600</pubDate>
+    <pubDate>Sat, 03 May 2014 16:07:05 -0600</pubDate>
+    <item>
+      <title>What Makes it all Worth it</title>
+      <link>http://jethrojones.com/2014/05/03/tp-022-chris-wejr-part-2/</link>
+      <description>&lt;p&gt;&lt;a href=&quot;http://mbsy.co/3jbnc&quot; target=&quot;_blank&quot; style=&quot;outline:none;border:none;&quot;&gt;&lt;img src=&quot;https://ambassador-api.s3.amazonaws.com/files/810_Sep_10_2013_00_03_15.jpg&quot; alt=&quot;Sanebox&quot; border=&quot;0&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+      <pubDate>Sat, 03 May 2014 16:07:05 -0600</pubDate>
+      <guid>http://jethrojones.com/2014/05/03/tp-022-chris-wejr-part-2/</guid>
+      <dc:date>2014-05-03T16:07:05-06:00</dc:date>
+    </item>
     <item>
       <title>Using Automator to Make Your Life Easier</title>
       <link>http://jethrojones.com/2014/04/30/kindergarten-orientation-automating-pictures/</link>
@@ -345,6 +354,6 @@ date:   2014-04-06 10:52:37&lt;/p&gt;
       <guid>http://jethrojones.com/2013/12/01/podcast-introduction/</guid>
       <dc:date>2013-12-01T14:52:26-07:00</dc:date>
     </item>
-    <dc:date>2014-04-30T16:32:10-06:00</dc:date>
+    <dc:date>2014-05-03T16:07:05-06:00</dc:date>
   </channel>
 </rss>
