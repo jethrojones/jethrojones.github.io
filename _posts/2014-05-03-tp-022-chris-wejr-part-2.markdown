@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  What Makes it all Worth it 
+title:  What Makes it all Worth it with Chris Wejr Transformative Principal 022 
 comments: true
 date:   2014-05-03 22:07:05
 categories: canada, punishment, pbis, suspension
