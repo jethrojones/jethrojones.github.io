@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>groupInfo</key>
+	<dict>
+		<key>expandAfterMode</key>
+		<integer>0</integer>
+		<key>groupName</key>
+		<string>CUES 2014</string>
+	</dict>
+	<key>snippetsTE2</key>
+	<array>
+		<dict>
+			<key>abbreviation</key>
+			<string>,,task</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2014-02-13T07:07:44Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>Task for someone</string>
+			<key>lastUsed</key>
+			<date>2014-03-31T16:17:24Z</date>
+			<key>modificationDate</key>
+			<date>2014-02-13T07:13:18Z</date>
+			<key>plainText</key>
+			<string>Hi, I have a task for you to complete. I am asking you to do this because I trust that you will do it well. I hope this gives you enough guidance, but if it doesn't, please let me know how to help you. 
+
+Task: %filltext:name=task title%
+Due Date: %filltext:name=date%
+Instructions:%fillarea:name=Instructions%
+Team: Seek help from the following: %filltext:name=Who can help%
+I'll ask you how this is going sometime before it is due. If I don't, you are welcome to contact me with any questions, concerns, comments, compliments you have. 
+
+Thanks for doing this. I appreciate working with you. 
+
+Jethro
+</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>2</integer>
+			<key>uuidString</key>
+			<string>65BA0C7A-13C9-4547-BCF1-9A782AEB34E2</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>cemail</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2013-05-23T20:23:19Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>Champs Email</string>
+			<key>lastUsed</key>
+			<date>2013-05-23T21:16:46Z</date>
+			<key>modificationDate</key>
+			<date>2013-05-23T21:01:17Z</date>
+			<key>plainText</key>
+			<string>
+
+%filltext:name=teacher name%, 
+
+According to my records, you are missing the CHAMPS lesson from the following date(s): 
+
+%fillpart:name=Champs ch 1%CHAMPS Chapter 1 (October 10, 2012)
+https://www.dropbox.com/sh/ibcq35kebm9rfss/As9Adz9aV6?v=1mci%fillpartend%
+%fillpart:name=Champs ch 2%CHAMPS Chapter 2 (November 14, 2012)
+https://www.dropbox.com/sh/8uv46xhzrcn4j49/lWBcddvcCl?v=1mci%fillpartend%
+%fillpart:name=Champs Chapter 3%CHAMPS Chapter 3 (December 12, 2012)
+https://www.dropbox.com/sh/p0eups1i1i6k6en/UwPcnbIVJJ?v=1mci
+%fillpartend%
+%fillpart:name=CHAMPS Chapter 4%CHAMPS Chapter 4 (January 8, 2013)
+https://www.dropbox.com/sh/hxafjgr8ohghp0e/MadIcb1NQV?v=1mci%fillpartend%
+%fillpart:name=CHAMPS Chapter 5%CHAMPS Chapter 5 (February 13, 2013)
+https://www.dropbox.com/sh/6v2zh4n69ixffvi/f1jOR-EDaz?v=1mci%fillpartend%
+%fillpart:name=CHAMPS Chapter 6%CHAMPS Chapter 6 (March 13, 2013)
+https://www.dropbox.com/sh/n0834gejk2xbz42/NbBVxpPM7F?v=1mci%fillpartend%
+%fillpart:name=CHAMPS Chapter 7:default=yes%CHAMPS Chapter 7 (April 10, 2013)
+https://www.dropbox.com/sh/h7q87k43sxivjdx/jtjyKM7MfS?v=1mci
+%fillpartend%
+%fillpart:name=CHAMPS Chapter 8%CHAMPS Chapter 8 (May 8, 2013)
+https://www.dropbox.com/sh/jo6v11376aacpgc/-Kz5oFrjco?v=1mci%fillpartend%
+
+To make up a session:
+1. Read the missed chapter. 
+2. Watch the movie in the folder. 
+3. Review the PowerPoint and handouts documents. 
+4. Write a reflection of what you learned and how you are going to implement it this year and next. 
+5. Turn the reflection in to Mr. Jones. 
+
+If you have attended (or completed the reflection for) all CHAMPS sessions by May 30th, you are entitled to the stipend. It will be at least $200.
+
+It is entirely possible that I made a mistake. If I did, let's chat and clear it up! :)
+
+%snippet:,,sig%
+%snippet:rrand%
+
+</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>16</integer>
+			<key>uuidString</key>
+			<string>199054A6-D322-4684-857F-DFBF82ED6933</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,,vmh</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2014-06-02T16:06:48Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>lastUsed</key>
+			<date>2014-06-02T16:16:37Z</date>
+			<key>modificationDate</key>
+			<date>2014-06-02T16:10:35Z</date>
+			<key>plainText</key>
+			<string>Hi,
+
+We need to do a report for the students who were served by our school-based mental health. Your student is %clipboard. Please fill out the three question survey, below. To protect student privacy, I need to you enter the student’s name in the form. 
+
+Please complete this by the end of the day, Monday. 
+
+https://docs.google.com/forms/d/1GUA_KrF3Deg8_LOThAZIkJDR_z0TRP9fcq2p8C0pq_E/viewform
+
+Thanks, 
+
+Jethro
+</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>8</integer>
+			<key>uuidString</key>
+			<string>191DE56A-F70F-4112-8A9A-F5F0144E630F</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>tomdate</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2013-09-30T20:14:02Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>tomorrow's date</string>
+			<key>lastUsed</key>
+			<date>2014-05-07T18:18:35Z</date>
+			<key>modificationDate</key>
+			<date>2013-10-24T04:00:50Z</date>
+			<key>plainText</key>
+			<string>%@+1D%m/%d/%Y</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>15</integer>
+			<key>uuidString</key>
+			<string>C81913D6-0C45-4598-B165-9F7C984735CD</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>twodate</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2013-09-30T20:14:02Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>2 days date</string>
+			<key>lastUsed</key>
+			<date>2014-05-07T18:18:43Z</date>
+			<key>modificationDate</key>
+			<date>2013-10-24T04:01:28Z</date>
+			<key>plainText</key>
+			<string>%@+2D%m/%d/%Y</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>10</integer>
+			<key>uuidString</key>
+			<string>746DFC88-BB94-4CCC-81BC-7B17B7DD6253</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>1wk</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2013-09-30T20:14:02Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>2 days date</string>
+			<key>lastUsed</key>
+			<date>2013-10-24T04:08:09Z</date>
+			<key>modificationDate</key>
+			<date>2013-10-24T04:06:19Z</date>
+			<key>plainText</key>
+			<string>%@+7D%m/%d/%Y</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>2</integer>
+			<key>uuidString</key>
+			<string>2F035AFF-49B8-42F0-9EDA-8D4F7558BEE1</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>1week</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2013-09-30T20:14:02Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>1 week</string>
+			<key>lastUsed</key>
+			<date>2014-04-03T04:36:51Z</date>
+			<key>modificationDate</key>
+			<date>2013-10-24T04:06:04Z</date>
+			<key>plainText</key>
+			<string>%@+7D%A, %B %d, %Y</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>11</integer>
+			<key>uuidString</key>
+			<string>06E58744-8CB6-4EC1-87BF-6A30D6D1A2DD</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>todate</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-07-02T22:26:44Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>lastUsed</key>
+			<date>2014-05-30T20:10:41Z</date>
+			<key>modificationDate</key>
+			<date>2012-07-02T22:26:44Z</date>
+			<key>plainText</key>
+			<string>%m/%d/%Y</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>385</integer>
+			<key>uuidString</key>
+			<string>9EE2D8B3-B91B-47AC-BF92-E355C9E20CFB</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>ddate</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-07-02T22:25:16Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>lastUsed</key>
+			<date>2014-06-10T04:03:53Z</date>
+			<key>modificationDate</key>
+			<date>2012-07-02T22:25:44Z</date>
+			<key>plainText</key>
+			<string>%Y-%m-%d</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>321</integer>
+			<key>uuidString</key>
+			<string>70B7D03F-F7B7-4DE7-A107-40EC57A12F5F</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>studnets</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2011-07-05T16:36:31Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>students</string>
+			<key>lastUsed</key>
+			<date>2014-05-11T03:04:28Z</date>
+			<key>modificationDate</key>
+			<date>2011-07-05T16:36:51Z</date>
+			<key>plainText</key>
+			<string>students</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>30</integer>
+			<key>uuidString</key>
+			<string>A0966865-C73B-4A9A-BF02-B826BBBBB983</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>ttime</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2011-05-30T03:03:28Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>lastUsed</key>
+			<date>2014-05-13T20:46:49Z</date>
+			<key>modificationDate</key>
+			<date>2011-05-30T03:03:28Z</date>
+			<key>plainText</key>
+			<string>%1I:%M %p</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>27</integer>
+			<key>uuidString</key>
+			<string>C9BC9086-258B-4304-BFEA-E64EE8D4F403</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>fdate</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2011-05-30T03:03:28Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>lastUsed</key>
+			<date>2014-05-14T21:08:02Z</date>
+			<key>modificationDate</key>
+			<date>2012-07-02T22:25:11Z</date>
+			<key>plainText</key>
+			<string>%B %e, %Y</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>40</integer>
+			<key>uuidString</key>
+			<string>AF97BDA4-BFD3-44E3-A241-2AB6ED2D1DE0</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>/atc</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2011-07-05T21:07:39Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>@canyons</string>
+			<key>lastUsed</key>
+			<date>2014-05-14T04:24:04Z</date>
+			<key>modificationDate</key>
+			<date>2011-07-05T21:07:39Z</date>
+			<key>plainText</key>
+			<string>@canyonsdistrict.org</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>47</integer>
+			<key>uuidString</key>
+			<string>CD120A50-C932-4AC0-BE16-58FD89E73D5B</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>msreports</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2011-06-09T20:28:08Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>MS Reports</string>
+			<key>modificationDate</key>
+			<date>2011-06-09T20:28:08Z</date>
+			<key>plainText</key>
+			<string>Agenda
+
+Present:
+
+Absent:
+
+Previous Tasks:
+
+Focus:
+
+
+
+Please enter your reports here, today: 
+
+*Albion* - 
+
+*Butler* - 
+
+*Crescent View* - 
+
+*Eastmont* - 
+
+*Indian Hills* - 
+
+*Midvale* - 
+
+*Mt. Jordan* - 
+
+*Union* - </string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>79CFA494-030E-401E-8168-B4115963E860</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,,tii</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-10-17T04:33:06Z</date>
+			<key>extraInfo</key>
+			<dict>
+				<key>RTF</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf340
+\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 LucidaGrande;\f1\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red36\green0\blue252;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf0 Hi %filltext:name=teacher first name%, \
+\
+This is a friendly reminder email to turn in some stuff. :)\
+\
+I need you to turn in the following by October 26th: \
+\
+
+\f1 %fillpart:name=your September Positive Communication Log:default=yes%
+\f0 September positive communication log (http://is.gd/td0dqi)
+\f1 %fillpartend% \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+\cf0 %fillpart:name=Video Reflection:default=yes%Video Reflection (
+\f0 http://is.gd/O8IPhP)\cf2  
+\f1 \cf0 - It will be easiest to use your computer (Photo Booth app) or iPad (Camera app) if you have one. \
+%fillpartend%\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+\cf0 %fillpart:name=JPAS Interim%Interim JPAS Professional Development Plan (http://www.canyonsdistrict.org/images/stories/Human_Resources/JPAS_Interim_PDP_4.0.pdf)%fillpartend%\
+\
+I want you to be successful, so please let me know what you need help with to be caught up. I am willing and able to help however I can. \
+\
+Also, there is a chance that you have done something and it has not been turned in, or that you have turned something in and somehow I didn't get it or keep track of it. If that is the case, just let me know and we can work it out. \
+\
+Thanks for being awesome, 
+\f0 %filltext:name=teacher first name%!\
+\
+\
+\pard\pardeftab720
+
+\f1 \cf0 Sincerely,\'a0\
+\
+\pard\pardeftab720
+
+\fs28 \cf0 Jethro Jones
+\fs24 \
+
+\fs28 \
+\pard\pardeftab720
+\cf3 Assistant Principal
+\fs24 \cf0 \
+
+\fs28 \cf3 Copperview Elementary School
+\fs24 \cf0 \
+
+\fs28 \cf3 jethro.jones@canyonsdistrict.org
+\fs24 \cf0 \
+
+\fs28 \cf3 (801) 826-8125}</string>
+			</dict>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>lastUsed</key>
+			<date>2012-10-17T05:33:40Z</date>
+			<key>modificationDate</key>
+			<date>2012-10-17T16:46:05Z</date>
+			<key>plainText</key>
+			<string>Hi %filltext:name=teacher first name%, 
+
+This is a friendly reminder email to turn in some stuff. :)
+
+I need you to turn in the following by October 26th: 
+
+%fillpart:name=your September Positive Communication Log:default=yes%September positive communication log (http://is.gd/td0dqi)%fillpartend% 
+%fillpart:name=Video Reflection:default=yes%Video Reflection (http://is.gd/O8IPhP) - It will be easiest to use your computer (Photo Booth app) or iPad (Camera app) if you have one. 
+%fillpartend%
+%fillpart:name=JPAS Interim%Interim JPAS Professional Development Plan (http://www.canyonsdistrict.org/images/stories/Human_Resources/JPAS_Interim_PDP_4.0.pdf)%fillpartend%
+
+I want you to be successful, so please let me know what you need help with to be caught up. I am willing and able to help however I can. 
+
+Also, there is a chance that you have done something and it has not been turned in, or that you have turned something in and somehow I didn't get it or keep track of it. If that is the case, just let me know and we can work it out. 
+
+Thanks for being awesome, %filltext:name=teacher first name%!
+
+
+Sincerely, 
+
+Jethro Jones
+
+Assistant Principal
+Copperview Elementary School
+jethro.jones@canyonsdistrict.org
+(801) 826-8125</string>
+			<key>richText</key>
+			<data>
+			BAtzdHJlYW10eXBlZIHoA4QBQISEhA1OU1RleHRTdG9yYWdlAISE
+			GU5TTXV0YWJsZUF0dHJpYnV0ZWRTdHJpbmcAhIQSTlNBdHRyaWJ1
+			dGVkU3RyaW5nAISECE5TT2JqZWN0AIWShISED05TTXV0YWJsZVN0
+			cmluZwGEhAhOU1N0cmluZwGWhAErgc4ESGkgJWZpbGx0ZXh0Om5h
+			bWU9dGVhY2hlciBmaXJzdCBuYW1lJSwgCgpUaGlzIGlzIGEgZnJp
+			ZW5kbHkgcmVtaW5kZXIgZW1haWwgdG8gdHVybiBpbiBzb21lIHN0
+			dWZmLiA6KQoKSSBuZWVkIHlvdSB0byB0dXJuIGluIHRoZSBmb2xs
+			b3dpbmcgYnkgT2N0b2JlciAyNnRoOiAKCiVmaWxscGFydDpuYW1l
+			PXlvdXIgU2VwdGVtYmVyIFBvc2l0aXZlIENvbW11bmljYXRpb24g
+			TG9nOmRlZmF1bHQ9eWVzJVNlcHRlbWJlciBwb3NpdGl2ZSBjb21t
+			dW5pY2F0aW9uIGxvZyAoaHR0cDovL2lzLmdkL3RkMGRxaSklZmls
+			bHBhcnRlbmQlIAolZmlsbHBhcnQ6bmFtZT1WaWRlbyBSZWZsZWN0
+			aW9uOmRlZmF1bHQ9eWVzJVZpZGVvIFJlZmxlY3Rpb24gKGh0dHA6
+			Ly9pcy5nZC9POElQaFApIC0gSXQgd2lsbCBiZSBlYXNpZXN0IHRv
+			IHVzZSB5b3VyIGNvbXB1dGVyIChQaG90byBCb290aCBhcHApIG9y
+			IGlQYWQgKENhbWVyYSBhcHApIGlmIHlvdSBoYXZlIG9uZS4gCiVm
+			aWxscGFydGVuZCUKJWZpbGxwYXJ0Om5hbWU9SlBBUyBJbnRlcmlt
+			JUludGVyaW0gSlBBUyBQcm9mZXNzaW9uYWwgRGV2ZWxvcG1lbnQg
+			UGxhbiAoaHR0cDovL3d3dy5jYW55b25zZGlzdHJpY3Qub3JnL2lt
+			YWdlcy9zdG9yaWVzL0h1bWFuX1Jlc291cmNlcy9KUEFTX0ludGVy
+			aW1fUERQXzQuMC5wZGYpJWZpbGxwYXJ0ZW5kJQoKSSB3YW50IHlv
+			dSB0byBiZSBzdWNjZXNzZnVsLCBzbyBwbGVhc2UgbGV0IG1lIGtu
+			b3cgd2hhdCB5b3UgbmVlZCBoZWxwIHdpdGggdG8gYmUgY2F1Z2h0
+			IHVwLiBJIGFtIHdpbGxpbmcgYW5kIGFibGUgdG8gaGVscCBob3dl
+			dmVyIEkgY2FuLiAKCkFsc28sIHRoZXJlIGlzIGEgY2hhbmNlIHRo
+			YXQgeW91IGhhdmUgZG9uZSBzb21ldGhpbmcgYW5kIGl0IGhhcyBu
+			b3QgYmVlbiB0dXJuZWQgaW4sIG9yIHRoYXQgeW91IGhhdmUgdHVy
+			bmVkIHNvbWV0aGluZyBpbiBhbmQgc29tZWhvdyBJIGRpZG4ndCBn
+			ZXQgaXQgb3Iga2VlcCB0cmFjayBvZiBpdC4gSWYgdGhhdCBpcyB0
+			aGUgY2FzZSwganVzdCBsZXQgbWUga25vdyBhbmQgd2UgY2FuIHdv
+			cmsgaXQgb3V0LiAKClRoYW5rcyBmb3IgYmVpbmcgYXdlc29tZSwg
+			JWZpbGx0ZXh0Om5hbWU9dGVhY2hlciBmaXJzdCBuYW1lJSEKCgpT
+			aW5jZXJlbHkswqAKCkpldGhybyBKb25lcwoKQXNzaXN0YW50IFBy
+			aW5jaXBhbApDb3BwZXJ2aWV3IEVsZW1lbnRhcnkgU2Nob29sCmpl
+			dGhyby5qb25lc0BjYW55b25zZGlzdHJpY3Qub3JnCig4MDEpIDgy
+			Ni04MTI1hoQCaUkBgZ0AkoSEhAxOU0RpY3Rpb25hcnkAloQBaQKS
+			hJmZEE5TUGFyYWdyYXBoU3R5bGWGkoSEhBBOU1BhcmFncmFwaFN0
+			eWxlAJaEBENDQFMAAISEhAdOU0FycmF5AJacDJKEhIQJTlNUZXh0
+			VGFiAJaEAkNmAByGkoSioQA4hpKEoqEAVIaShKKhAHCGkoSioQCB
+			jACGkoSioQCBqACGkoSioQCBxACGkoSioQCB4ACGkoSioQCB/ACG
+			koSioQCBGAGGkoSioQCBNAGGkoSioQCBUAGGhoEACIQEWzFmXYPN
+			zEw9hpKEmZkGTlNGb250hpKEhIQGTlNGb250HpacJIQFWzM2Y10G
+			AAAAGgAAAP/+TAB1AGMAaQBkAGEARwByAGEAbgBkAGUAAACEAWYM
+			hAFjAKYBpgCmAIaGmgJFkoSbnAKSrpKEsJwchAVbMjhjXQYAAAAU
+			AAAA//5IAGUAbAB2AGUAdABpAGMAYQClDKYApgGmAKYAhpKckp2G
+			mgE6mgIPmgM+koSbnAGSrpKyhpoEFJKEm5wBkq6Sr4aaBQGShJuc
+			ApKukoSwnCSkBgAAABoAAAD//kwAdQBjAGkAZABhAEcAcgBhAG4A
+			ZABlAAAApQymAKYBpgCmAIaShJmZB05TQ29sb3KGkoSEhAdOU0Nv
+			bG9yAJamBoQDQEBAhJmZBlN5c3RlbYaEmZkQY29udHJvbFRleHRD
+			b2xvcoaEuaYDhAJmZgABhoaGmgNxmgKBPQKaASaaBg2ShJucApKc
+			koSengAAhKCcAIaBAAqEBFsyZl0kg83MTD2Gkq6SsoaaBwyShJuc
+			ApKckoSengAAv4EACqskg83MTD2Gkq6ShLCcHKcGAAAAFAAAAP/+
+			SABlAGwAdgBlAHQAaQBjAGEApQ6mAKYBpgCmAIaGmgYBmgcBmggT
+			koSbnAOSt5KEuaYBhARmZmZmg5GQED4Ag/38fD8BhpKckoSengAA
+			v4EACqskg83MTD2Gkq6SwoaaBgGaCByaBgGaCCCaBgGaCA6G
+			</data>
+			<key>snippetType</key>
+			<integer>1</integer>
+			<key>useCount</key>
+			<integer>37</integer>
+			<key>uuidString</key>
+			<string>7B9438DC-3FB9-4EB7-ABAA-42062185F0C6</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>/ref</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-06-26T16:21:18Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>reference for teachers</string>
+			<key>lastUsed</key>
+			<date>2013-07-22T15:50:20Z</date>
+			<key>modificationDate</key>
+			<date>2012-06-28T20:53:12Z</date>
+			<key>plainText</key>
+			<string>Hi %filltext:name=name of reference%, 
+
+I am writing to get a reference check for %filltext:name=Candidate First Name% %filltext:name=Candidate Last Name%, who %fillpopup:name=previous positions:student taught for:taught with:default=taught for:student taught with:worked with:worked for% you. %filltext:name=Candidate First Name% is applying for a teaching position at Copperview Elementary.  Would you please give me a call at 801-826-8129? Below are the typical questions we ask of references. You can reply to this email with the answers to these questions, if that is convenient, or call me.  
+
+Have you observed the candidate in a classroom setting?
+
+How would you describe his/her teaching style?
+
+Did the candidate get along with other teachers?
+
+Would you please describe the candidate’s strengths?
+
+Is there any area in which the candidate could improve his/her performance?
+
+How would you describe his/her relationship with students and parents?
+
+Would you hire or rehire this candidate?</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>20</integer>
+			<key>uuidString</key>
+			<string>77DBFCC3-4DF1-4F4B-9CE8-9A35FAF6C42B</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,,bt</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-10-17T02:52:41Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>lastUsed</key>
+			<date>2014-06-01T04:33:02Z</date>
+			<key>modificationDate</key>
+			<date>2013-06-04T19:23:09Z</date>
+			<key>plainText</key>
+			<string>behavior tracker - %filltext:name=student name%</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>321</integer>
+			<key>uuidString</key>
+			<string>51220B4F-58D7-4520-B75F-0C8243FA43CF</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,,psp</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-09-28T13:56:11Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>lastUsed</key>
+			<date>2014-03-24T15:30:39Z</date>
+			<key>modificationDate</key>
+			<date>2012-11-12T17:44:43Z</date>
+			<key>plainText</key>
+			<string>%Y-%m-%d personal safety plan - %filltext:name=student name%</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>17</integer>
+			<key>uuidString</key>
+			<string>3F08E510-BFF8-418B-BEA0-BEBE046A9318</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>lweek</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-08-21T05:08:10Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>lastUsed</key>
+			<date>2012-08-21T05:13:05Z</date>
+			<key>modificationDate</key>
+			<date>2012-08-21T05:13:01Z</date>
+			<key>plainText</key>
+			<string>%m-%@-7D%d-%Y-</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>8</integer>
+			<key>uuidString</key>
+			<string>45A5CCB8-0707-4314-883D-9B72491CC9C4</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>/toread</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-08-08T04:30:03Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>to read</string>
+			<key>lastUsed</key>
+			<date>2013-03-09T17:16:59Z</date>
+			<key>modificationDate</key>
+			<date>2012-08-08T04:32:43Z</date>
+			<key>plainText</key>
+			<string>to read %Y-%filltext:name=to read by due date:default=07-01%</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>5</integer>
+			<key>uuidString</key>
+			<string>05167A18-F220-4BDB-B66B-55A3CAA7842D</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>/donthanks</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-08-07T05:20:19Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>lastUsed</key>
+			<date>2013-12-03T18:25:34Z</date>
+			<key>modificationDate</key>
+			<date>2012-08-07T05:28:06Z</date>
+			<key>plainText</key>
+			<string>Dear %filltext:name=Name of Donor%, 
+
+I’d like to thank you for contributing %fillpopup:name=donation:prizes:gift cards:default=popsicles:time% to our school. When you support our school, you are making the educational experience better for all the children in our school. Thank you for your kindness. 
+
+We rely heavily on the support of %fillpopup:name=people or businesses:people:businesses% like you%fillpart:name=yours:default=yes%rs%fillpartend% to help our students succeed and be ready for life.
+
+Sincerely, 
+
+Principal Jones</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>1</integer>
+			<key>uuidString</key>
+			<string>618E5B9F-FC61-4266-9D86-EBBF727A673A</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>parlet</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-07-31T09:19:32Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>lastUsed</key>
+			<date>2012-09-01T16:54:12Z</date>
+			<key>modificationDate</key>
+			<date>2012-07-31T09:28:35Z</date>
+			<key>plainText</key>
+			<string>Dear Parent/Guardian, 
+
+I just wanted to send you a quick note and let you know about the %fillpopup:name=popup 3:great work ethic:kind smile:default=generous heart:cooperative attitude:humility% your child has. 
+
+Today, I saw %filltext:name=first name% %fillpopup:name=kind things:work hard to finish a project.:greet everyone in the hall.:default=offer help to someone who needed it.:resolve a conflict without being mean.:ask another person for help.:other%
+
+Thank you for raising a child that makes our school better. 
+
+Sincerely, 
+
+Jethro Jones
+
+%snippet:rrand%</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>6</integer>
+			<key>uuidString</key>
+			<string>83342874-0F51-41CD-AD45-6754F113EFDD</string>
+		</dict>
+	</array>
+</dict>
+</plist>
